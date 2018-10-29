@@ -1,5 +1,11 @@
 Finance news-
 
+Stock  checking sites   
+fidelity.com/       easy to see chart with dividents and earning dates   
+marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning   
+https://finance.yahoo.com/   ; nice financial section , upgrades/downgrades     
+etrade.com   easy to see ratios in fundamentals section   
+
 
 
 [fidelity.com/news/overview]
