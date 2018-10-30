@@ -1,4 +1,8 @@
-finance web sites
+finance web sites   
+Daily  quick  Read   
+https://www.nasdaq.com/    commdities , forex ,upgrades    
+https://finance.yahoo.com/   
+marketwatch.com   
 
 Stock  checking sites    
 fidelity.com/       easy to see chart with dividents and earning dates    
