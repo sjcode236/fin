@@ -1,16 +1,31 @@
-Finance news-
+Stock  checking sites    
+fidelity.com/       easy to see chart with dividents and earning dates    
+marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning    
+https://finance.yahoo.com/   ; nice financial section , upgrades/downgrades    
+etrade.com   easy to see ratios in fundamentals section    
+bloomberg app  good to see  financials         
 
-Stock  checking sites     
 
-fidelity.com/       easy to see chart with dividents and earning dates     
+Finance news         
+https://www.morganstanley.com/ideas/thoughts-on-the-market      
+https://www.morganstanley.com/ideas.html               
+fidelity.com/news/overview             
+https://www.fidelity.com/news/us-economy        
+https://www.fidelity.com/news/us-markets        
+https://www.fidelity.com/news/overview        
+https://www.fidelity.com/news/international        
+        
+https://us.etrade.com/knowledge/investing-ideas        
+https://us.etrade.com/knowledge/markets-news        
+         
+https://www.schwab.com/resource-center/insights/content/schwab-market-update        
+https://www.schwab.com/resource-center/insights/section/market-commentary        
+        
+nasdaq.com/news/market-headlines.aspx        
+        
+zacks.com/stock-market-today        
 
-marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning     
 
-https://finance.yahoo.com/   ; nice financial section , upgrades/downgrades     
-
-etrade.com   easy to see ratios in fundamentals section     
-
-bloomberg app  good to see  financials          
 
 
 
