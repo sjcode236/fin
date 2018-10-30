@@ -1,48 +1,13 @@
-http://www.barrons.com/       
-
-http://www.barrons.com/online_exclusives?mod=BOL_Nav_DAA_hpp    
-
-    
-
-https://www.fnlondon.com/    
-
-    
-
-http://www.wsj.com/pro/join    
-
-https://www.wsj.com/    
-
-    
-
-https://www.dowjones.com/    
-
-    
-
- newsoracle.com/    
 
 
 
+https://www.investopedia.com/news/
+
+https://www.investopedia.com/investing/
+
+https://www.investopedia.com/markets/
 
 
-seeking alpha
-
-https://seekingalpha.com/market-outlook
-
-https://seekingalpha.com/stock-ideas/editors-picks
-
-https://seekingalpha.com/stock-ideas/ipos
-
-https://seekingalpha.com/earnings  
-
-
-
-
-http://www.wsj.com/pro/join
-https://www.wsj.com/
-
-https://www.dowjones.com/
-
- newsoracle.com/
 
 
 seeking alpha
