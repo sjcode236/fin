@@ -21,6 +21,14 @@ https://www.marketwatch.com/investing/stock/nue
 https://www.marketwatch.com/investing/stock/csx   
 
 
+https://ark-funds.com/  
+https://finance.yahoo.com/quote/ARKK/holdings?p=ARKK
+https://ark-funds.com/active-etfs
+
+
+
+
+
 
 
 
