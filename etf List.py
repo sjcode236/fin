@@ -5,3 +5,10 @@ Vanguard World Stock Fund VT ,
 
 
 
+
+===pot ETF ===========
+MJ  ETFMG Alternative Harvest ETF
+
+
+
+
