@@ -18,6 +18,12 @@ https://www.google.com/search?q=paul+m+romer
 motely fool   199 or 99     
 http://www.valueline.com/Products/Equities.aspx     
     
+====london financial news 
+https://www.fnlondon.com/news  
+
+
+
+
 
 
 
