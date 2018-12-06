@@ -26,7 +26,16 @@ https://finance.yahoo.com/quote/ARKK/holdings?p=ARKK
 https://ark-funds.com/active-etfs   
    
       
-      
+======BDC business development corporations
+rising interest rates benefit BDCs. BDCs are companies that invest in small to medium-sized private businesses. Financially distressed businesses are their main target. BDCs are similar to venture capital funds, which are typically only open to institutional investors.
+The structure of BDCs means they pay almost no corporate income taxes. Instead, they distribute at least 90% of their taxable income as dividends to shareholders.The right BDC can also act as a hedge against rising interest rates. The reason higher rates are good for BDCs is that it’s harder to secure conventional bank loans when rates are higher.    
+ CGBD  https://www.marketwatch.com/investing/stock/cgbd       
+ PFLT  https://www.marketwatch.com/investing/stock/pflt      
+ TCPC  https://www.marketwatch.com/investing/stock/tcpc   
+ 
+ 
+ 
+
          
 
 
