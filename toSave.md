@@ -1,7 +1,7 @@
 
 
 
-
+www.finviz.com    
 https://stocktwits.com/     
 https://www.scutify.com/    
 http://www.scutify.com/sentiment-rankings.html   
@@ -24,6 +24,10 @@ https://www.fnlondon.com/news
 
 
 
+=======================================     
+Ben Carlson: My 12 favorite (and free) websites for investing information and tools   
+https://www.marketwatch.com/story/ben-carlson-my-12-favorite-and-free-websites-for-investing-information-and-tools-2017-03-24    
+https://portfoliocharts.com/   
 
 
 
