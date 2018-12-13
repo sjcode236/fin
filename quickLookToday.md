@@ -8,5 +8,7 @@ https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner
       
 To Save to Websites blog Pages        
 https://www.etfchannel.com/      
-r
+
+BOA merrill edge 
+https://www.trefis.com/companies
       
