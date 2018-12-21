@@ -23,5 +23,4 @@ Healthcare & Biotech ETFs 	Sell	--	--	$1,382.24
 Healthcare & Biotech ETFs 	Buy	    --	--	($1,509.18)
 Defensive Dividends 	Sell	--	--	$1,253.29 
 Defensive Dividends 	Buy	    --	--	($1,010.05)
-
 moitf net 243.24 - 126.94 = 116.30 
