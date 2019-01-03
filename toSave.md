@@ -20,10 +20,17 @@ http://www.valueline.com/Products/Equities.aspx
     
 ====london financial news 
 https://www.fnlondon.com/news  
-
-
-
-
+     
+       
+https://mentorbox.com/nd-homepage-sproof    $7/mo     
+https://www.youtube.com/watch?v=uoAb2BHWMxo      
+      
+     
+A.I. Trading Ideas    
+https://tickeron.com/     
+     
+     
+     
 =======================================     
 Ben Carlson: My 12 favorite (and free) websites for investing information and tools   
 https://www.marketwatch.com/story/ben-carlson-my-12-favorite-and-free-websites-for-investing-information-and-tools-2017-03-24    
