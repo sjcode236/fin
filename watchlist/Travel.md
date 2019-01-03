@@ -11,9 +11,9 @@ jets
 DAL   
 AAL   
 SUV   
-JetBlue Airways Corp.	JBLU	  
-Allegiant Travel Co.	ALGT	  
-Alaska Air Group Inc.	ALK	 
+JetBlue Airways Corp.	JBLU    
+Allegiant Travel Co.	ALGT  
+Alaska Air Group Inc.	ALK   
 Spirit Airlines Inc.	SAVE	 
 Southwest Airlines Co.	LUV	 
 American Airlines Group Inc.	AAL	 
