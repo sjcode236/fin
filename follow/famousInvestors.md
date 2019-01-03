@@ -1,4 +1,4 @@
-well known investors
+
 
 
 Mike(Michael)  Wilson -- Morgan Stanley        
