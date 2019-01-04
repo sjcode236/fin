@@ -21,14 +21,8 @@ morgan stanley high conviction  list
 https://www.google.com/search?q=morgan+stanley+high+conviction  
 Goldman Sachs Conviction Buy List     
      https://www.google.com/search?q=goldman+conviction+buy+list      
-     sfgsdfdgfsg
-     dfsgsdfgdfsgfsd
-         dsgfdfsgfsd
-         dfsgsdfgdfsgfsd
-         sfgsdfdgfsg
+       
          
      
      
-     sfgsdfdgfsg
-     dfsgsdfgdfsgfsd
-     dsgfdfsgfsd
+ 
