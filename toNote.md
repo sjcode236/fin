@@ -7,7 +7,7 @@ AMD   https://www.zacks.com/stock/quote/AMD?q=AMD
 TLRY   https://www.zacks.com/stock/quote/TLRY?q=TLRY       
 
 CF   CF Industries Holdings Inc.   
-
+CRM   sales force 
 
 
 
