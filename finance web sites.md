@@ -1,5 +1,6 @@
 
-finance web sites
+finance web sites  
+http://finance236.blogspot.com/  (new updates in github page )         
 
 Daily  quick  Read   
 https://www.nasdaq.com/    commdities , forex ,upgrades, forcast , surprises      
@@ -13,10 +14,25 @@ https://finance.yahoo.com/   ; nice financial section , upgrades/downgrades
 etrade.com   easy to see ratios in fundamentals section   
 bloomberg app  good to see  financials        
 
-Finance news       
+Thoughts on Market           
 https://www.morganstanley.com/ideas/thoughts-on-the-market     
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner  
 https://www.morganstanley.com/ideas.html      
+
+https://www.cnbc.com/market-outlook/   
+https://www.schwab.com/resource-center/insights/content/market-perspective   
+Capital Market Outlook- Merrill Lynch(cio weekly) https://olui2.fs.ml.com/Publish/Content/application/pdf/GWMOL/ME-cio-weekly-letter.pdf   
+    
+https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights.html
+Global Markets Weekly Update   https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/global-markets-weekly-update.html#China     
+Monthly Market Review  https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/monthly-market-review.html    
+
+
+subscription 
+https://investorplace.com/2019/02/want-market-direction-read-this/  
+motelyfool 
+
+
        
 fidelity.com/news/overview           
 https://www.fidelity.com/news/us-economy       
