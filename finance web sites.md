@@ -21,8 +21,13 @@ https://www.morganstanley.com/ideas.html
 
 https://www.cnbc.com/market-outlook/   
 https://www.schwab.com/resource-center/insights/content/market-perspective   
-Capital Market Outlook- Merrill Lynch(cio weekly) https://olui2.fs.ml.com/Publish/Content/application/pdf/GWMOL/ME-cio-weekly-letter.pdf   
-    
+https://www.schwab.com/resource-center/insights/content/utilities-sector    
+Capital Market Outlook- Merrill Lynch(cio weekly) https://olui2.fs.ml.com/Publish/Content/application/pdf/GWMOL/ME-cio-weekly-letter.pdf    
+https://vanguardblog.com/     
+https://investornews.vanguard/topics/markets-economy/     
+https://investornews.vanguard/     
+
+
 https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights.html
 Global Markets Weekly Update   https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/global-markets-weekly-update.html#China     
 Monthly Market Review  https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/monthly-market-review.html    
