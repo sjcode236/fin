@@ -21,7 +21,9 @@ https://www.morganstanley.com/ideas.html
 
 https://www.cnbc.com/market-outlook/   
 https://www.schwab.com/resource-center/insights/content/market-perspective   
-https://www.schwab.com/resource-center/insights/content/utilities-sector    
+https://www.schwab.com/resource-center/insights/content/utilities-sector 
+https://institutional.fidelity.com/app/item/RD_13569_16431/markets-economy.html
+
 Capital Market Outlook- Merrill Lynch(cio weekly) https://olui2.fs.ml.com/Publish/Content/application/pdf/GWMOL/ME-cio-weekly-letter.pdf    
 https://vanguardblog.com/     
 https://investornews.vanguard/topics/markets-economy/     
@@ -32,6 +34,9 @@ https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price
 Global Markets Weekly Update   https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/global-markets-weekly-update.html#China     
 Monthly Market Review  https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/monthly-market-review.html    
 
+https://www.raymondjames.com/wealth-management/market-commentary-and-insights/
+https://www.raymondjames.com/wealth-management/market-commentary-and-insights/investment-strategy     
+https://www.raymondjames.com/wealth-management/market-commentary-and-insights/economic-commentary     
 
 subscription 
 https://investorplace.com/2019/02/want-market-direction-read-this/  
