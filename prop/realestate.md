@@ -35,5 +35,8 @@ david@phoenix-wealth-builders.com
 david Rosefield    
 707 490 6108    
     
-    
+Buying Rental Property: A Step by Step Guide  
+https://www.biggerpockets.com/renewsblog/2013/02/22/buying-rental-property/    
+
+
     
