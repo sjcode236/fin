@@ -1,5 +1,5 @@
 
-##This 24-year-old is on track to save $100,000 by age 25, and she has advice for other women who want to be rich
+## This 24-year-old is on track to save $100,000 by age 25, and she has advice for other women who want to be rich
 
 https://www.marketwatch.com/story/this-24-year-old-is-on-track-to-save-100000-by-age-25-and-she-has-advice-for-other-women-who-want-to-be-rich-2019-03-04
 
