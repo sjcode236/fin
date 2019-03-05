@@ -7,6 +7,10 @@ o, main, ltc, and gcap.
 xrp   
 Vanguard .... VTI and/or VOO    
  Vanguard has minimums; Fidelity does not.    
- === M1 Free automated investing    https://www.m1finance.com/how-it-works/invest   
+ === M1 Free automated investing    https://www.m1finance.com/how-it-works/invest    
+ ==acorns.com   Fully Automatic Investing https://www.acorns.com/invest/   https://www.acorns.com/pricing/      
+ ==stash   
+ 
+ 
  
  
