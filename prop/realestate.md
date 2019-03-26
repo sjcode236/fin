@@ -33,7 +33,16 @@ http://phoenix-wealth-builders.com/
 9375 E Shea Blvd #100 Scottsdale AZ 85260    
 david@phoenix-wealth-builders.com    
 david Rosefield    
-707 490 6108    
+707 490 6108   
+
+phoeix wealth builders   
+devnde hamilton   
+480 372 5618   
+http://phoenix-wealth-builders.com/about-us/    
+Jusitn     
+
+
+
     
 Buying Rental Property: A Step by Step Guide  
 https://www.biggerpockets.com/renewsblog/2013/02/22/buying-rental-property/    
