@@ -37,6 +37,12 @@ The structure of BDCs means they pay almost no corporate income taxes. Instead, 
  PFLT  https://www.marketwatch.com/investing/stock/pflt      
  TCPC  https://www.marketwatch.com/investing/stock/tcpc   
  
+ =====================    
+ https://www.marketwatch.com/story/about-half-of-teens-cant-pass-this-basic-8-question-financial-quiz-could-you-2019-04-05          
+https://www.financialeducatorscouncil.org/financial-foundation-test/        
+
+
+
  
  
 
