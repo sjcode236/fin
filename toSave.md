@@ -7,8 +7,10 @@ https://www.scutify.com/
 http://www.scutify.com/sentiment-rankings.html   
 https://www.tradingview.com/screener/  
 
+=========================    
+https://www.titanvest.com/performance/   
 
-=========================================
+=========================================    
 
 Finance Nobel prize winners2018   
 https://www.google.com/search?q=paul+m+romer        
