@@ -11,3 +11,12 @@ http://www.valueline.com/Products/Equities.aspx
 
 
 https://cashflowheavenpublishing.com/the-winning-secret-subscription/
+   
+   
+   
+   penney stocks trade 
+https://www.timothysykes.com/      
+https://dirtyscam.com/reviews/timothy-sykes/    
+https://toptradereviews.com/timothy-sykes-review/    
+https://timsykeswatchlist.com/    
+
