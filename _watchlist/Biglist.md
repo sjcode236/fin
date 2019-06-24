@@ -2,7 +2,7 @@
 
 vz
 aapl
-
+tsla
 
 
 
