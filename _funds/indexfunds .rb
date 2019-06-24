@@ -3,5 +3,9 @@ spy
 voo 
 
 =========Long term good etf 
-Vanguard Total Stock Market VTI ,
-Vanguard World Stock Fund VT ,
+VTI Vanguard Total Stock Market  ,
+VT Vanguard World Stock Fund  ,
+VIG  Vanguard Dividend Appreciation Index Fund ETF Shares 
+
+
+=======
