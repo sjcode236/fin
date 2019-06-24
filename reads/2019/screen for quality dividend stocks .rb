@@ -1,5 +1,8 @@
 
 
+https://www.marketwatch.com/story/heres-a-better-and-safer-investment-strategy-for-dividend-stock-investors-2019-05-15?mod=watchlist_main_news
+
+
 Lewis Altfest, president of Altfest Personal Wealth Management, which manages about $1.2 billion for private clients in New York, said “you should not take the companies with the highest yields. Generally those companies are ones that have weak growth and are vulnerable to dividend cuts, as we saw with Kraft Heinz KHC, +1.12% ” Kraft Heinz cut its dividend by more than a third in February. The stock was down 23% for 2019 through May 10, following a 42% drop in 2018.
 
 For investors who insist on holding individual stocks with attractive dividend yields, Altfest offered some ideas for screening them:
