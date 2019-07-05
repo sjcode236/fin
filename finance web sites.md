@@ -5,7 +5,8 @@ http://finance236.blogspot.com/  (new updates in github page )
 Daily  quick  Read   
 https://www.nasdaq.com/    commdities , forex ,upgrades, forcast , surprises      
 https://finance.yahoo.com/      
-marketwatch.com   
+www.marketwatch.com   
+http://thestockmarketwatch.com/markets/pre-market/today.aspx    
 
 Stock  checking sites       
 fidelity.com/       easy to see chart with dividents and earning dates      
