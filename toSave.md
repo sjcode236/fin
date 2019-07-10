@@ -1,9 +1,5 @@
 
 
-https://www.wellsfargo.com/com/insights/economics/weekly-commentary/     
-https://www.wellsfargo.com/com/insights/economics/indicators/     
-https://www.wellsfargo.com/com/insights/economics/
-
 
 www.finviz.com    
 https://stocktwits.com/     
