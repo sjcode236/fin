@@ -31,16 +31,21 @@ https://investornews.vanguard/topics/markets-economy/
 https://investornews.vanguard/     
 
 
-https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights.html
+https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights.html    
 Global Markets Weekly Update   https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/global-markets-weekly-update.html#China     
 Monthly Market Review  https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/monthly-market-review.html    
 
-https://www.raymondjames.com/wealth-management/market-commentary-and-insights/
-https://www.raymondjames.com/wealth-management/market-commentary-and-insights/investment-strategy     
+https://www.raymondjames.com/wealth-management/market-commentary-and-insights/    
+https://www.raymondjames.com/wealth-management/market-commentary-and-insights/investment-strategy      
 https://www.raymondjames.com/wealth-management/market-commentary-and-insights/economic-commentary     
 
-subscription 
-https://investorplace.com/2019/02/want-market-direction-read-this/  
+
+https://www.wellsfargo.com/com/insights/economics/weekly-commentary/     
+https://www.wellsfargo.com/com/insights/economics/indicators/     
+https://www.wellsfargo.com/com/insights/economics/
+
+subscription   
+https://investorplace.com/2019/02/want-market-direction-read-this/     
 motelyfool 
 
 
