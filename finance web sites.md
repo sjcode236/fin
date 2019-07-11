@@ -15,6 +15,7 @@ https://finance.yahoo.com/   ; nice financial section , upgrades/downgrades
 etrade.com   easy to see ratios in fundamentals section   
 bloomberg app  good to see  financials        
 
+==========================================================================                     
 Thoughts on Market           
 https://www.morganstanley.com/ideas/thoughts-on-the-market     
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner  
@@ -44,12 +45,7 @@ https://www.wellsfargo.com/com/insights/economics/weekly-commentary/
 https://www.wellsfargo.com/com/insights/economics/indicators/     
 https://www.wellsfargo.com/com/insights/economics/
 
-subscription   
-https://investorplace.com/2019/02/want-market-direction-read-this/     
-motelyfool 
 
-
-       
 fidelity.com/news/overview           
 https://www.fidelity.com/news/us-economy       
 https://www.fidelity.com/news/us-markets       
@@ -65,7 +61,13 @@ https://www.schwab.com/resource-center/insights/section/market-commentary
 nasdaq.com/news/market-headlines.aspx       
        
 zacks.com/stock-market-today       
-       
+    
+=========================================================================================
+    
+subscription   
+https://investorplace.com/2019/02/want-market-direction-read-this/     
+motelyfool    
+    
 cnbc.com/       
 http://www.cnbc.com/the-deed/       
 https://www.cnbc.com/trading-nation/       
