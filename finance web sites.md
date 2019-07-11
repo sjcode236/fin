@@ -62,6 +62,9 @@ nasdaq.com/news/market-headlines.aspx
        
 zacks.com/stock-market-today       
     
+@HayekAndKeynes, aka The Long View  blog  https://www.moneyisfiction.com/resources 
+
+
 =========================================================================================
     
 subscription   
