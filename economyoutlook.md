@@ -2,16 +2,12 @@
 
 economy outlook and podcasts ....
 
-https://chrisguillebeau.com/    
-https://sidehustleschool.com/podcasts/    
-
- 
 
  
 
 https://www.morganstanley.com/ideas/thoughts-on-the-market-sheets    
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zezas/     
-
+https://podtail.com/en/podcast/thoughts-on-the-market/
  
 
  
