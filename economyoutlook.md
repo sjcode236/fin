@@ -4,10 +4,12 @@ economy outlook and podcasts ....
 
 
  
-
+https://www.morganstanley.com/ideas/thoughts-on-the-market    
 https://www.morganstanley.com/ideas/thoughts-on-the-market-sheets    
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zezas/     
-https://podtail.com/en/podcast/thoughts-on-the-market/
+https://www.podparadise.com/Podcast/1466686717     
+https://podtail.com/en/podcast/thoughts-on-the-market/    
+
  
 
  
