@@ -35,3 +35,16 @@ https://podcasts.apple.com/us/podcast/morgan-stanley-ideas-podcast/id1246402780
 https://www.wellsfargo.com/economics/      
 https://www.wellsfargo.com/com/insights/economics/weekly-commentary/    
 https://www.wellsfargo.com/com/insights/economics/monthly-outlook/    
+
+
+fidelity Market Insights   
+https://www.podparadise.com/Podcast/1252948006     
+
+Zacks Market Edge   
+https://www.podparadise.com/Podcast/1052541481     
+
+Schwab Market Update Audio    
+
+
+InvestTalk - Investment in Stock Market, Financial Planning, Retirement Planning, Money Management Podcast    
+https://www.podparadise.com/Podcast/280789489    
