@@ -23,7 +23,7 @@ https://www.google.com/search?q=oppenheimer+raise
 
 ==== rating companies ==========================    
 Susquehanna  
-Oppenheimer  
+Oppenheimer    oppenheimer raised
 Cowen & Co.	  
 CFRA  
 Barclays  
