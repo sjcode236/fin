@@ -64,6 +64,7 @@ zacks.com/stock-market-today
     
 @HayekAndKeynes, aka The Long View  blog  https://www.moneyisfiction.com/resources 
 
+https://blog.tipranks.com/    
 
 =========================================================================================
     
@@ -123,16 +124,7 @@ https://www.ubs.com/global/en/newsletter/daily_markets.html
     
 https://marketrealist.com/    
     
-Upgrade  , Downgrades  and Ratings    
-https://ledgergazette.com/?s=rating    
-http://www.marketwatch.com/tools/stockresearch/updown    
-https://scs.fidelity.com/help/research/learn_er_upgrades_downgrades.shtml    
-http://online.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html    
-http://news.morningstar.com/briefnet/marketcalendar.aspx?page=UpgradesDowngrades    
-http://www.benzinga.com/analyst-ratings/upgrades    
-http://www.rttnews.com/corpinfo/upgrades.aspx    
-https://www.stocktargetprices.com/analyst/RBC%20Capital%20Markets    
-    
+
     
 Analyst Research     
 http://www.nasdaq.com/symbol/pg/analyst-research    
@@ -215,7 +207,7 @@ https://www.benzinga.com/topic/macquarie-research
 https://www.benzinga.com/topic/ubs    
     
     
-Websites Expanded     
+=========Websites Expanded  =======================      
       
 http://www.marketwatch.com/news/markets/earningswatch.asp    
 marketwatch.com/newsviewer    
@@ -227,13 +219,7 @@ https://www.benzinga.com/pre-market-outlook
 https://www.benzinga.com/markets/commodities    
 https://www.benzinga.com/author/webwire    
     
-https://www.benzinga.com/analyst-ratings/upgrades      
-http://www.benzinga.com/analyst-ratings/downgrades    
-https://www.benzinga.com/analyst-ratings/price-target    
-https://www.benzinga.com/analyst-ratings/initiation    
-https://www.benzinga.com/analyst-ratings/initiation?page=2    
-https://www.benzinga.com/calendar/ratings    
-https://www.benzinga.com/calendar/economics      
+     
     
     
 
@@ -256,18 +242,14 @@ https://www.wsj.com/graphics/track-the-markets/?mod=topnav_2_3022
 BROWSE ETFs      
 http://www.wsj.com/public/quotes/browse_etfs.html?mod=topnav_2_3052      
       
-https://m.briefing.com/Investor/Calendars/Upgrades-Downgrades/Upgrades/2017/09/08      
-https://m.briefing.com/Investor/Calendars/Upgrades-Downgrades/Upgrades/2017/06/08    
-https://m.briefing.com/Investor/Calendars/Upgrades-Downgrades/Upgrades/2018/03/08   
-https://m.briefing.com/investor/calendars/Upgrades-Downgrades/    
-https://m.briefing.com/Investor/Calendars/Upgrades-Downgrades/Initiated/2018/03/08    
-       https://www.stocktrader.com/blog/    
+   
+ https://www.stocktrader.com/blog/    
 https://www.stocktrader.com/etfs/       
 https://www.stocktrader.com/inverse-short-etfs-bearish-etf-funds/     
 https://www.stocktrader.com/learn-stock-trading/    
 https://www.stocktrader.com/free-education/    
 https://www.stocktrader.com/analysis/    
-              http://etfdb.com/etfdb-category/inverse-bonds/    
+      http://etfdb.com/etfdb-category/inverse-bonds/    
        
       
 
