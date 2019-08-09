@@ -11,8 +11,7 @@ https://www.benzinga.com/calendar/ratings
 https://www.benzinga.com/calendar/economics  
 
 
-oppenheimer raise    
-https://www.google.com/search?q=oppenheimer+raise      
+  
 
 
 https://m.briefing.com/Investor/Calendars/Upgrades-Downgrades/Upgrades/2017/09/08      
@@ -59,6 +58,9 @@ Citigroup
 Wells Fargo   
 Longbow Research   
 Nomura  
+
+oppenheimer raise    
+https://www.google.com/search?q=oppenheimer+raise    
 
 ================================================    
 
