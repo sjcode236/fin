@@ -22,19 +22,26 @@ https://www.google.com/search?q=oppenheimer+raise
 
 
 ==== rating companies ==========================    
-Susquehanna    
-Oppenheimer   
+Susquehanna  
+Oppenheimer  
 Cowen & Co.	  
 CFRA  
 Barclays  
-Stifel Nicolaus	  
+Stifel Nicolaus	 
 UBS  
 Jefferies  
 KeyBanc  
 Mizuho Securities    Mizuho raised  
 Needham  
-BMO Capital	  
+BMO Capital	 
+Morgan Stanley  
 J.P. Morgan  
+Citigroup  
+Wells Fargo   
+Longbow Research   
+Nomura  
+
+================================================    
 
 
 
