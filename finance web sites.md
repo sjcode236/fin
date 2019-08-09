@@ -272,14 +272,7 @@ https://www.stocktrader.com/analysis/
       
 
 
-Analysts       
-       https://www.tipranks.com/ratings    
-https://www.tipranks.com/analysts/vijay-rakesh    
-https://www.smarteranalyst.com/tag/vijay-rakesh/    
-http://www.benzinga.com/topic/vijay-rakesh    
-http://investorwand.com/investor/8094/vijay-rakesh    
-http://www.analystratings.com/articles/tag/vijay-rakesh/    
-    
+
     
 
 
