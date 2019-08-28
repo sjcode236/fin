@@ -11,7 +11,9 @@ http://www.valueline.com/Products/Equities.aspx
 
 
 https://cashflowheavenpublishing.com/the-winning-secret-subscription/
-   
+
+  
+https://investorplace.com/2019/02/want-market-direction-read-this/     
    
    
    penney stocks trade 
