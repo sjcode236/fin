@@ -58,21 +58,18 @@ https://us.etrade.com/knowledge/markets-news
 https://www.schwab.com/resource-center/insights/content/schwab-market-update       
 https://www.schwab.com/resource-center/insights/section/market-commentary       
        
-nasdaq.com/news/market-headlines.aspx       
+https://www.nasdaq.com/news/market-headlines.aspx        
        
-zacks.com/stock-market-today       
-    
-@HayekAndKeynes, aka The Long View  blog  https://www.moneyisfiction.com/resources 
+https://www.zacks.com/stock-market-today     
+
+   
+@HayekAndKeynes, aka The Long View  blog  https://www.moneyisfiction.com/resources     
 
  
 https://blog.tipranks.com/     ==> New Stock Ideas    
 https://www.tipranks.com/trending-stocks   ==> Tending stocks 
 
-=========================================================================================
-    
-subscription   
-https://investorplace.com/2019/02/want-market-direction-read-this/     
-motelyfool    
+=========================================================================================  
     
 cnbc.com/       
 http://www.cnbc.com/the-deed/       
@@ -85,6 +82,7 @@ bloomberg.com/markets/commodities
 bloomberg.com/view/topics       
        
 forbes.com/business       
+
 morningstar.com/       
 http://www.morningstar.com/news/dow-jones.html       
 http://www.morningstar.com/news/dow-jones/us-markets.html       
