@@ -65,8 +65,8 @@ zacks.com/stock-market-today
 @HayekAndKeynes, aka The Long View  blog  https://www.moneyisfiction.com/resources 
 
  
-https://blog.tipranks.com/     ===New Stock Ideas    
-https://www.tipranks.com/trending-stocks    
+https://blog.tipranks.com/     ==> New Stock Ideas    
+https://www.tipranks.com/trending-stocks   ==> Tending stocks 
 
 =========================================================================================
     
