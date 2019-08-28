@@ -9,9 +9,9 @@ www.marketwatch.com
 http://thestockmarketwatch.com/markets/pre-market/today.aspx    
 
 Stock  checking sites       
-fidelity.com/       easy to see chart with dividents and earning dates      
+fidelity.com/       easy to see chart with splits , dividents and earning dates      
 marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning   
-https://finance.yahoo.com/   ; nice financial section , upgrades/downgrades    
+https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
 etrade.com   easy to see ratios in fundamentals section   
 bloomberg app  good to see  financials        
 
@@ -64,7 +64,9 @@ zacks.com/stock-market-today
     
 @HayekAndKeynes, aka The Long View  blog  https://www.moneyisfiction.com/resources 
 
-https://blog.tipranks.com/    
+ 
+https://blog.tipranks.com/     ===New Stock Ideas    
+https://www.tipranks.com/trending-stocks    
 
 =========================================================================================
     
