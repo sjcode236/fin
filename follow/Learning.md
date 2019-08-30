@@ -16,7 +16,13 @@ ACDCLeadership
 https://www.youtube.com/user/ACDCLeadership/videos      
 The Economist      
 https://www.youtube.com/user/EconomistMagazine/videos      
-      
+
+
+Fidelity    
+https://www.fidelity.com/learning-center/tools-demos/research-tools/overview     
+
+
+
       
       
       
