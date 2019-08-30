@@ -48,3 +48,13 @@ Schwab Market Update Audio
 
 InvestTalk - Investment in Stock Market, Financial Planning, Retirement Planning, Money Management Podcast    
 https://www.podparadise.com/Podcast/280789489    
+
+BOAML   
+
+
+CHASE 
+
+
+https://realinvestmentadvice.com/real-investment-daily/      
+https://www.youtube.com/channel/UCXVMMgEidXlrTM1coedg70A/videos      
+https://realinvestmentadvice.com/webinars/      
