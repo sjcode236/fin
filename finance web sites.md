@@ -12,7 +12,7 @@ Stock  checking sites
 fidelity.com/       easy to see chart with splits , dividents and earning dates      
 marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning   
 https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
-etrade.com   easy to see ratios in fundamentals section   
+etrade.com : easy to see ratios in fundamentals section, Trefis  value , Tipranks target etc       
 bloomberg app  good to see  financials        
 
 ==========================================================================                     
