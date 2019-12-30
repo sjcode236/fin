@@ -2,6 +2,10 @@
 
 
 
+
+
+cell-tower companies Crown Castle International CCI, +0.34%   and American Tower AMT, +0.53%  . “I own them because wireless broadband is growing dramatically,” Greene says.     
+
 CRON   https://www.zacks.com/stock/quote/CRON?q=CRON    
 AMD   https://www.zacks.com/stock/quote/AMD?q=AMD    
 TLRY   https://www.zacks.com/stock/quote/TLRY?q=TLRY       
