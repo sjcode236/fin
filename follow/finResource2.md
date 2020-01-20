@@ -21,6 +21,8 @@ https://www.thecapitalideas.com/category/viewpoints
 https://www.bogleheads.org/index.php     
 https://www.bogleheads.org/forum/index.php     
 
+https://www.facebook.com/RetireBeforeDad/     
+
 
 
 
