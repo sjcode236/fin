@@ -39,3 +39,9 @@ https://www.youtube.com/watch?v=Gr5a6oJqrvA
 
 Money and Life TV   
 https://www.youtube.com/watch?v=LmzRRICp390     
+
+
+iPlan Knowledge & News    
+https://www.youtube.com/channel/UCPalj8V_OwEh-E-qirk242A     
+
+
