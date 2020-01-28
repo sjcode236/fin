@@ -8,7 +8,7 @@ https://finance.yahoo.com/
 www.marketwatch.com   
 http://thestockmarketwatch.com/markets/pre-market/today.aspx    
 
-Stock  checking sites       
+===== Stock  checking sites       
 fidelity.com/       easy to see chart with splits , dividents and earning dates      
 marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning   
 https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
