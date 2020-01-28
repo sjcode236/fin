@@ -11,6 +11,10 @@ https://www.tradingview.com/screener/
 =========================    
 https://www.titanvest.com/performance/   
 
+    
+https://www.etfchannel.com/      
+
+     
 =========================================    
 
 Finance Nobel prize winners2018   
