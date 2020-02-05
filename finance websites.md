@@ -14,7 +14,12 @@ marketwatch.com    easy to see a stocks income in finance section , charts with 
 https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
 etrade.com : easy to see ratios in fundamentals section, Trefis  value , Tipranks target etc       
 bloomberg app  good to see  financials       
-www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,ratios .... 
+www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,ratios ....    
+
+https://www.marketbeat.com/ratings/by-issuer/   rating by firms     
+https://www.marketbeat.com/ratings/us/     
+
+https://finviz.com/  market map, oversold , overbought screening     
 
 ==========================================================================                     
 Thoughts on Market           
@@ -71,8 +76,20 @@ https://www.zacks.com/stock-market-today
 https://blog.tipranks.com/     ==> New Stock Ideas    
 https://www.tipranks.com/trending-stocks   ==> Tending stocks 
 
+  
+
 =========================================================================================  
     
+https://finviz.com/  market map, oversold , overbought screening    
+https://finviz.com/screener.ashx?v=111&s=ta_oversold     
+   
+https://www.investing.com/technical/us-spx-500-technical-analysis    
+https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
+ 
+https://stocktwits.com/     
+https://www.scutify.com/    
+http://www.scutify.com/sentiment-rankings.html   
+ 
 cnbc.com/       
 http://www.cnbc.com/the-deed/       
 https://www.cnbc.com/trading-nation/       
