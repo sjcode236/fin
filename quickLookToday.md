@@ -1,6 +1,9 @@
 
 
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
+https://github.com/sjcode236/fin/blob/master/finance%20websites.md    
+
+
 
 https://www.morganstanley.com/ideas/thoughts-on-the-market       
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner            
