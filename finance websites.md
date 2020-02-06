@@ -19,7 +19,7 @@ www.investing.com/  Financial Summary, divident history,earning history, Technic
 https://www.marketbeat.com/ratings/by-issuer/   rating by firms     
 https://www.marketbeat.com/ratings/us/     
 http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022   
-
+https://github.com/sjcode236/fin/blob/master/priceRatings.md     
 
 https://finviz.com/  market map, oversold , overbought screening     
 
