@@ -18,6 +18,8 @@ www.investing.com/  Financial Summary, divident history,earning history, Technic
 
 https://www.marketbeat.com/ratings/by-issuer/   rating by firms     
 https://www.marketbeat.com/ratings/us/     
+http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022   
+
 
 https://finviz.com/  market map, oversold , overbought screening     
 
@@ -85,10 +87,12 @@ https://finviz.com/screener.ashx?v=111&s=ta_oversold
 https://finviz.com/map.ashx    
 
    
+https://www.investing.com/analysis/stock-markets     
+https://www.investing.com/technical/indices-technical-summary     
 https://www.investing.com/technical/us-spx-500-technical-analysis    
 https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
 https://www.investing.com/technical/personalized-quotes-technical-summary     
-
+https://www.investing.com/equities/tesla-motors-earnings
 
 https://stocktwits.com/     
 https://www.scutify.com/    
@@ -105,10 +109,7 @@ bloomberg.com/markets/commodities
 bloomberg.com/view/topics       
        
 forbes.com/business     
-
-https://www.investing.com/analysis/stock-markets     
-https://www.investing.com/technical/indices-technical-summary     
-
+    
 morningstar.com/       
 http://www.morningstar.com/news/dow-jones.html       
 http://www.morningstar.com/news/dow-jones/us-markets.html       
@@ -160,6 +161,7 @@ https://www.estimize.com/
     
 https://www.briefing.com/investor/search/search.aspx    
 http://www.starmine.com/    
+http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022  
     
 
 Research Tools     
@@ -275,7 +277,8 @@ https://www.stocktrader.com/inverse-short-etfs-bearish-etf-funds/
 https://www.stocktrader.com/learn-stock-trading/    
 https://www.stocktrader.com/free-education/    
 https://www.stocktrader.com/analysis/    
-      http://etfdb.com/etfdb-category/inverse-bonds/    
+
+http://etfdb.com/etfdb-category/inverse-bonds/    
        
       
 
