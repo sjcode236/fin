@@ -85,7 +85,9 @@ https://finviz.com/screener.ashx?v=111&s=ta_oversold
    
 https://www.investing.com/technical/us-spx-500-technical-analysis    
 https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
- 
+https://www.investing.com/technical/personalized-quotes-technical-summary     
+
+
 https://stocktwits.com/     
 https://www.scutify.com/    
 http://www.scutify.com/sentiment-rankings.html   
