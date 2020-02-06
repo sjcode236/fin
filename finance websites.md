@@ -100,6 +100,14 @@ https://stocktwits.com/
 https://www.scutify.com/    
 http://www.scutify.com/sentiment-rankings.html   
  
+AI stock filter, TechnicalAnalysis , AI-adviser
+https://stocktwits.com/tickeron
+https://tickeron.com/app/newssearch/hashtags/stocks_etfs/TechnicalAnalysis_MovingAverage_Bullish
+https://tickeron.com/app/newssearch/hashtags/stocks/TechnicalAnalysis
+https://tickeron.com/app/newssearch/hashtags/stocks/TechnicalAnalysis_Bullish
+https://tickeron.com/app/newssearch/hashtags/stocks_etfs_mutualfunds_forex/Earnings 
+ 
+ 
 cnbc.com/       
 http://www.cnbc.com/the-deed/       
 https://www.cnbc.com/trading-nation/       
