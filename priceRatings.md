@@ -1,7 +1,7 @@
 
 
 
-https://www.benzinga.com/calendar/ratings
+https://www.benzinga.com/calendar/ratings   
 https://www.benzinga.com/analyst-ratings/upgrades      
 http://www.benzinga.com/analyst-ratings/downgrades    
 https://www.benzinga.com/analyst-ratings/price-target    
