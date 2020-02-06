@@ -82,6 +82,8 @@ https://www.tipranks.com/trending-stocks   ==> Tending stocks
     
 https://finviz.com/  market map, oversold , overbought screening    
 https://finviz.com/screener.ashx?v=111&s=ta_oversold     
+https://finviz.com/map.ashx    
+
    
 https://www.investing.com/technical/us-spx-500-technical-analysis    
 https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
