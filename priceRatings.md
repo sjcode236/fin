@@ -58,6 +58,11 @@ Citigroup
 Wells Fargo   
 Longbow Research   
 Nomura  
+ubs 
+wedbush 
+raymond James 
+ 
+
 
 oppenheimer raise    
 https://www.google.com/search?q=oppenheimer+raise    
