@@ -27,8 +27,8 @@ https://finviz.com/  market map, oversold , overbought screening
 Thoughts on Market           
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
 https://github.com/sjcode236/fin/blob/master/misc%20podcast.md     
-https://www.morganstanley.com/ideas/thoughts-on-the-market     
-https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner  
+https://www.morganstanley.com/ideas/thoughts-on-the-market-wilson          
+https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner    
 https://www.morganstanley.com/ideas.html      
 
 https://www.cnbc.com/market-outlook/   
