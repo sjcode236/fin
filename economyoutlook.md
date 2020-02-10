@@ -4,7 +4,7 @@ economy outlook and podcasts ....
 https://github.com/sjcode236/fin/blob/master/follow/finResource2.md    
 
  
-https://www.morganstanley.com/ideas/thoughts-on-the-market    
+https://www.morganstanley.com/ideas/thoughts-on-the-market-wilson       
 https://www.morganstanley.com/ideas/thoughts-on-the-market-sheets    
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zezas/     
 https://www.podparadise.com/Podcast/1466686717     
