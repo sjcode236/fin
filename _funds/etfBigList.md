@@ -45,7 +45,9 @@ SWTSX  Schwab Total Stock Market Index Fund (SWTSX)
 ==IXUS  iShares Core MSCI Total International Stock ETF (IXUS)     
 
 
+=====  Utilities   
 
+VPU https://finance.yahoo.com/quote/VPU   Vanguard Utilities Index Fund ETF Shares (VPU)       
 
 ===feeds notes ===================           
 IVV   
