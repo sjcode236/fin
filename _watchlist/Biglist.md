@@ -4,9 +4,9 @@
 
 
 
-https://finance.yahoo.com/quote/NWL   Newell Brands Inc. (NWL)    
+Newell Brands Inc. (NWL)    https://finance.yahoo.com/quote/NWL    
 https://finance.yahoo.com/quote/EXPE  Expedia Group, Inc. (EXPE)    
-https://finance.yahoo.com/quote/NVDA  NVIDIA Corporation (NVDA)       
+NVIDIA Corporation (NVDA)    https://finance.yahoo.com/quote/NVDA       
 https://finance.yahoo.com/quote/KHC   The Kraft Heinz Company (KHC)    
 https://finance.yahoo.com/quote/CGC   Canopy Growth Corporation (CGC)     
 
