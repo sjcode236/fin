@@ -16,12 +16,12 @@ etrade.com : easy to see ratios in fundamentals section, Trefis  value , Tiprank
 bloomberg app  good to see  financials       
 www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,ratios ....    
 
-https://www.marketbeat.com/ratings/by-issuer/   rating by firms     
+https://www.marketbeat.com/ratings/by-issuer/   rating by firms , price targets    
 https://www.marketbeat.com/ratings/us/     
-http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022   
+http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022    
 https://github.com/sjcode236/fin/blob/master/priceRatings.md     
-
-https://finviz.com/  market map, oversold , overbought screening     
+https://www.fool.com/premium/stock-advisor/     
+https://finviz.com/  market map, oversold , overbought screening ,price targets    
 
 ==========================================================================                     
 Thoughts on Market           
