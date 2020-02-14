@@ -10,6 +10,7 @@ https://www.morganstanley.com/ideas/thoughts-on-the-market-zezas/
 https://www.podparadise.com/Podcast/1466686717     
 https://podtail.com/en/podcast/thoughts-on-the-market/    
 
+
  
 
  
