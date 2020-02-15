@@ -9,10 +9,10 @@ www.marketwatch.com
 http://thestockmarketwatch.com/markets/pre-market/today.aspx    
 
 ===== Stock  checking sites       
-fidelity.com/       easy to see chart with splits , dividents and earning dates      
-marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning   
+www.fidelity.com/       easy to see chart with splits , dividents and earning dates      
+www.marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning   
 https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
-etrade.com : easy to see ratios in fundamentals section, Trefis  value , Tipranks target etc       
+www.etrade.com : easy to see ratios in fundamentals section, Trefis  value , Tipranks target etc       
 bloomberg app  good to see  financials       
 www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,ratios ....    
 
@@ -21,7 +21,7 @@ https://www.marketbeat.com/ratings/us/
 http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022    
 https://github.com/sjcode236/fin/blob/master/priceRatings.md     
 https://www.fool.com/premium/stock-advisor/     
-https://finviz.com/  market map, oversold , overbought screening ,price targets    
+https://finviz.com/  market map, oversold , overbought screening ,price targets,biginfo table   
 
 ==========================================================================                     
 Thoughts on Market           
@@ -55,7 +55,7 @@ https://www.wellsfargo.com/com/insights/economics/indicators/
 https://www.wellsfargo.com/com/insights/economics/
 
 
-fidelity.com/news/overview           
+www.fidelity.com/news/overview           
 https://www.fidelity.com/news/us-economy       
 https://www.fidelity.com/news/us-markets       
 https://www.fidelity.com/news/overview       
@@ -86,7 +86,7 @@ https://finviz.com/  market map, oversold , overbought screening
 https://finviz.com/screener.ashx?v=111&s=ta_oversold     
 https://finviz.com/map.ashx    
 
-   
+quick earnings & dividents history, Financials         
 https://www.investing.com/analysis/stock-markets     
 https://www.investing.com/technical/indices-technical-summary     
 https://www.investing.com/technical/us-spx-500-technical-analysis    
