@@ -17,15 +17,15 @@ https://www.facebook.com/CapitalGroup/
 https://www.thecapitalideas.com/category/podcast     
 https://www.thecapitalideas.com/category/viewpoints     
 
-
-https://www.bogleheads.org/index.php     
-https://www.bogleheads.org/forum/index.php     
+   
 
 https://www.facebook.com/RetireBeforeDad/     
 
 
 
-
+==== Forum  ================================== 
+https://www.bogleheads.org/index.php     
+https://www.bogleheads.org/forum/index.php  
 
 
 ==== youtube   ===================      
