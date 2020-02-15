@@ -55,12 +55,12 @@ BMO Capital
 Morgan Stanley  
 J.P. Morgan  
 Citigroup  
-Wells Fargo   
-Longbow Research   
-Nomura  
-ubs 
-wedbush 
-raymond James 
+Wells Fargo, 
+Longbow Research, 
+Nomura, 
+ubs,  
+wedbush, 
+raymond James ,
  
 
 
