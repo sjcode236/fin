@@ -93,8 +93,9 @@ https://www.investing.com/technical/us-spx-500-technical-analysis
 https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
 https://www.investing.com/technical/personalized-quotes-technical-summary     
 https://www.investing.com/equities/tesla-motors-earnings
+earnings calendar    
+https://stocktwits.com/    
 
-https://stocktwits.com/     
 https://www.scutify.com/    
 http://www.scutify.com/sentiment-rankings.html   
  
@@ -118,7 +119,7 @@ bloomberg.com/view/topics
        
 forbes.com/business     
     
-morningstar.com/       
+www.morningstar.com/       
 http://www.morningstar.com/news/dow-jones.html       
 http://www.morningstar.com/news/dow-jones/us-markets.html       
 http://www.morningstar.com/news/market-watch.html       
@@ -136,7 +137,7 @@ https://www.wsj.com/
    
 https://www.dowjones.com/   
    
- newsoracle.com/   
+ www.newsoracle.com/   
     
 seeking alpha    
 https://seekingalpha.com/market-outlook    
@@ -187,25 +188,25 @@ http://www.marketwatch.com/earnings
 https://www.earningswhispers.com/results    
       
 Oil     
-fxempire.com/commodities/crude-oil/news    
-marketwatch.com/topics    
+www.fxempire.com/commodities/crude-oil/news    
+www.marketwatch.com/topics    
 www.oil-price.net/    
-nasdaq.com/markets/crude-oil.aspx    
-bloomberg.com/energy    
-cnbc.com/energy/    
-reuters.com/finance/commodities    
+www.nasdaq.com/markets/crude-oil.aspx    
+www.bloomberg.com/energy    
+www.cnbc.com/energy/    
+www.reuters.com/finance/commodities    
     
     
     
     
     
 Gold     
-bloomberg.com/markets/commodities/futures/metals    
+www.bloomberg.com/markets/commodities/futures/metals    
     
     
     
 Exchange Rates     
-bloomberg.com/markets/currencies    
+www.bloomberg.com/markets/currencies    
 money.cnn.com/data/currencies/    
     
 yahoo dollar to Rs    
@@ -246,8 +247,8 @@ https://www.benzinga.com/topic/ubs
 =========Websites Expanded  =======================      
       
 http://www.marketwatch.com/news/markets/earningswatch.asp    
-marketwatch.com/newsviewer    
-marketwatch.com/topics    
+www.marketwatch.com/newsviewer    
+www.marketwatch.com/topics    
       
 https://www.benzinga.com/economics    
 https://www.benzinga.com/topic/market-in-5-minutes    
@@ -259,7 +260,7 @@ https://www.benzinga.com/author/webwire
     
     
 
-Markets at a Glance      
+Wall street Journel -- Markets at a Glance      
 http://markets.wsj.com/usoverview?mod=mdc_topnav_2_3022      
 COMMODITIES & FUTURES OVERVIEW      
 http://www.wsj.com/mdc/public/page/mdc_commodities.html      
