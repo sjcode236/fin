@@ -92,9 +92,10 @@ https://www.investing.com/technical/indices-technical-summary
 https://www.investing.com/technical/us-spx-500-technical-analysis    
 https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
 https://www.investing.com/technical/personalized-quotes-technical-summary     
-https://www.investing.com/equities/tesla-motors-earnings
+https://www.investing.com/equities/tesla-motors-earnings    
+
 earnings calendar    
-https://stocktwits.com/    
+https://stocktwits.com/     
 
 https://www.scutify.com/    
 http://www.scutify.com/sentiment-rankings.html   
@@ -113,11 +114,11 @@ https://www.cnbc.com/trading-nation/
 https://www.cnbc.com/earnings-calendar/       
        
 https://www.bloomberg.com/markets       
-bloomberg.com/markets/stocks       
-bloomberg.com/markets/commodities       
-bloomberg.com/view/topics       
+www.bloomberg.com/markets/stocks       
+www.bloomberg.com/markets/commodities       
+www.bloomberg.com/view/topics       
        
-forbes.com/business     
+www.forbes.com/business     
     
 www.morningstar.com/       
 http://www.morningstar.com/news/dow-jones.html       
