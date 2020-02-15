@@ -32,9 +32,9 @@ https://www.morganstanley.com/ideas/thoughts-on-the-market
 https://www.cnbc.com/market-outlook/   
 https://www.schwab.com/resource-center/insights/content/market-perspective   
 https://www.schwab.com/resource-center/insights/content/utilities-sector 
-https://institutional.fidelity.com/app/item/RD_13569_16431/markets-economy.html
+https://institutional.fidelity.com/app/item/RD_13569_16431/markets-economy.html 
 
-Capital Market Outlook- Merrill Lynch(cio weekly) https://olui2.fs.ml.com/Publish/Content/application/pdf/GWMOL/ME-cio-weekly-letter.pdf      
+Capital Market Outlook- Merrill Lynch(cio weekly) https://olui2.fs.ml.com/Publish/Content/application/pdf/GWMOL/ME-cio-weekly-letter.pdf   
 
 https://vanguardblog.com/     
 https://investornews.vanguard/topics/markets-economy/     
@@ -94,8 +94,8 @@ https://www.investing.com/technical/us-spx-500-futures-technical-analysis
 https://www.investing.com/technical/personalized-quotes-technical-summary     
 https://www.investing.com/equities/tesla-motors-earnings    
 
-earnings calendar    
-https://stocktwits.com/     
+  
+https://stocktwits.com/   earnings calendar ,twits    
 
 https://www.scutify.com/    
 http://www.scutify.com/sentiment-rankings.html   
