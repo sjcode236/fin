@@ -183,10 +183,13 @@ Earnings Report
 https://eresearch.fidelity.com/eresearch/conferenceCalls.jhtml    
     
 http://www.marketwatch.com/news/markets/earningswatch.asp    
-http://www.marketwatch.com/tools/earningscalendar    
+www.marketwatch.com/tools/earningscalendar    
 http://www.marketwatch.com/earnings    
     
-https://www.earningswhispers.com/results    
+www.earningswhispers.com/results   
+www.benzinga.com/calendar/earnings    
+www.stocktwits.com/discover/earnings-calendar     
+
       
 Oil     
 www.fxempire.com/commodities/crude-oil/news    
