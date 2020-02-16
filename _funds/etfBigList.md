@@ -63,6 +63,12 @@ VOO, VTI, SPYG, SPTM, SPY
 Vti, itot, fzrox, VOO. I also like qqq.
 
 
+233 hammers on scans today :  $DDM $DIA $XLF $QQQX $IWS     
+$QQQ $QQQX $QYLD  https://dashboard.stck.pro/news.php?ticker=QQQx&rowid=1525089      
+
+
+
+
 
 
 
