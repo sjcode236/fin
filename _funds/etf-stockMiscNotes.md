@@ -19,8 +19,8 @@ msft
 T, O, GIS, MSFT , AMZN, mcd , SPCE  ,
 
 -----   
-Here is a good tool for comparing ETFs such as VTI, VYM, VIG, VPU, etc. https://etfdb.com/tool/etf-comparison/      
-
+Here is a good tool for comparing ETFs such as VTI, VYM, VIG, VPU, etc. https://etfdb.com/tool/etf-comparison/        
+https://etfdb.com/stock/XOM/  --> to see   etfs have  XOM 
 
 
 
