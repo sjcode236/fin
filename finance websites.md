@@ -10,7 +10,7 @@ http://thestockmarketwatch.com/markets/pre-market/today.aspx
 
 ===== Stock  checking sites       
 www.fidelity.com/       easy to see chart with splits , dividents and earning dates      
-www.marketwatch.com    easy to see a stocks income in finance section , charts with divident,earning   
+www.marketwatch.com    etf holdings, easy to see a stocks income in finance section , charts with divident,earning   
 https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
 www.etrade.com : easy to see ratios in fundamentals section, Trefis  value , Tipranks target etc       
 bloomberg app  good to see  financials       
