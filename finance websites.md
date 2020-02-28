@@ -292,7 +292,7 @@ https://www.stocktrader.com/free-education/
 https://www.stocktrader.com/analysis/    
 
 http://etfdb.com/etfdb-category/inverse-bonds/    
-       
+https://etfdb.com/stock/XOM/  --> to see   etfs have  XOM        
       
 
 
