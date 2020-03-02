@@ -14,14 +14,16 @@ www.marketwatch.com    etf holdings, easy to see a stocks income in finance sect
 https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
 www.etrade.com : easy to see ratios in fundamentals section, Trefis  value , Tipranks target etc       
 bloomberg app  good to see  financials       
-www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,ratios ....    
+www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,STOCHRSI,ratios, ....    
 
 https://www.marketbeat.com/ratings/by-issuer/   rating by firms , price targets    
-https://www.marketbeat.com/ratings/us/     
+https://www.marketbeat.com/ratings/us/  stochasticsRSI,analyst Targets,   
 http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022    
 https://github.com/sjcode236/fin/blob/master/priceRatings.md     
 https://www.fool.com/premium/stock-advisor/     
 https://finviz.com/  market map, oversold , overbought screening ,price targets,biginfo table   
+
+https://stockcharts.com/   stochasticsRSI   
 
 ==========================================================================                     
 Thoughts on Market           
