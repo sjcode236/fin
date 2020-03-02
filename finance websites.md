@@ -95,20 +95,22 @@ https://www.investing.com/technical/us-spx-500-technical-analysis
 https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
 https://www.investing.com/technical/personalized-quotes-technical-summary     
 https://www.investing.com/equities/tesla-motors-earnings    
+ 
 
+https://www.scutify.com/    
+http://www.scutify.com/sentiment-rankings.html     
   
 https://stocktwits.com/   earnings calendar ,twits    
 
-https://www.scutify.com/    
-http://www.scutify.com/sentiment-rankings.html   
+AI stock filter, TechnicalAnalysis , AI-adviser    
+https://stocktwits.com/tickeron   
+https://tickeron.com/app/newssearch/hashtags/stocks_etfs/TechnicalAnalysis_MovingAverage_Bullish    
+https://tickeron.com/app/newssearch/hashtags/stocks/TechnicalAnalysis    
+https://tickeron.com/app/newssearch/hashtags/stocks/TechnicalAnalysis_Bullish    
+https://tickeron.com/app/newssearch/hashtags/stocks_etfs_mutualfunds_forex/Earnings    
  
-AI stock filter, TechnicalAnalysis , AI-adviser
-https://stocktwits.com/tickeron
-https://tickeron.com/app/newssearch/hashtags/stocks_etfs/TechnicalAnalysis_MovingAverage_Bullish
-https://tickeron.com/app/newssearch/hashtags/stocks/TechnicalAnalysis
-https://tickeron.com/app/newssearch/hashtags/stocks/TechnicalAnalysis_Bullish
-https://tickeron.com/app/newssearch/hashtags/stocks_etfs_mutualfunds_forex/Earnings 
- 
+https://dashboard.stck.pro/   Social Financial News    
+
  
 cnbc.com/       
 http://www.cnbc.com/the-deed/       
