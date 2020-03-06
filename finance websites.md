@@ -25,6 +25,14 @@ https://finviz.com/  market map, oversold , overbought screening ,price targets,
 
 https://stockcharts.com/   stochasticsRSI   
 
+Fear & Greed Index     
+
+https://www.liberatedstocktrader.com/fear-and-greed-index/    
+https://money.cnn.com/data/fear-and-greed/    
+https://www.investopedia.com/anxiety-index-explained/    
+https://www.investopedia.com/articles/optioninvestor/03/091003.asp    
+
+
 ==========================================================================                     
 Thoughts on Market           
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
