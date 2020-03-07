@@ -1,9 +1,9 @@
 
 
-Tesla 
-GM
+Tesla ,
+GM ,
 
-plug
+plug ,
 fcel 
 
 Nikola trucks ,--> may help  vtiq   
