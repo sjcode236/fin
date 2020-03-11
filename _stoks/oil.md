@@ -4,6 +4,8 @@
 
 
 
+
+=====10Mar2020========================================    
 https://www.youtube.com/watch?v=H8fLQsv_O8Y&list=PLM0xbngSSuG8D2f3t_MZvHBP3Zcmm3dja&index=1     
 https://www.youtube.com/watch?v=uf5SZuLIwC8     
 high dividend midstream stocks    
