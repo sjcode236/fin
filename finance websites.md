@@ -32,6 +32,8 @@ https://money.cnn.com/data/fear-and-greed/
 https://www.investopedia.com/anxiety-index-explained/    
 https://www.investopedia.com/articles/optioninvestor/03/091003.asp    
 
+COT Reports with Interactive Charts     
+https://www.tradingster.com/cot     
 
 ==========================================================================                     
 Thoughts on Market           
