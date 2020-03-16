@@ -82,5 +82,16 @@ https://www.youtube.com/channel/UCbKdotYtcY9SxoU8CYAXdvg
 Ale's World of Stocks    
 https://www.youtube.com/channel/UCXhrqxFZbG-k8l7v-XhX3ZQ     
 
+Honeystocks.com    
+https://www.youtube.com/channel/UCmNwLkHnslfzEtO2S16vmcQ/videos    
+
+13 Market Moves    
+https://www.youtube.com/channel/UCHylXoREffYSx9YiVJvsrjw/videos     
+
+CiovaccoCapital     
+https://www.youtube.com/user/CiovaccoCapital/videos       
+
+
+
 
 
