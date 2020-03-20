@@ -91,6 +91,11 @@ https://www.youtube.com/channel/UCHylXoREffYSx9YiVJvsrjw/videos
 CiovaccoCapital     
 https://www.youtube.com/user/CiovaccoCapital/videos       
 
+JJ Buckner     
+https://www.youtube.com/channel/UCweFuIP49kB3ihHy9bKp48g/videos      
+
+
+
 
 
 
