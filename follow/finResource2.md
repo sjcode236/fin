@@ -31,15 +31,28 @@ https://www.bogleheads.org/forum/index.php
 ==== youtube   ===================      
 
 
+==== Venkat Damera  posts 
 
-Investing With Rose
-https://www.youtube.com/watch?v=tskh-QCCH-o&t=466s     
-https://www.youtube.com/watch?v=Gr5a6oJqrvA      
+Honeystocks.com   
+https://www.youtube.com/channel/UCmNwLkHnslfzEtO2S16vmcQ/videos     
+
+Kay Kim    
+https://www.youtube.com/user/2kaykim/videos     
+ 
+13 Market Moves    
+https://www.youtube.com/channel/UCHylXoREffYSx9YiVJvsrjw/videos     
+
+CiovaccoCapital     
+https://www.youtube.com/user/CiovaccoCapital/videos    
+
 
 
 Money and Life TV   
-https://www.youtube.com/watch?v=LmzRRICp390     
+https://www.youtube.com/watch?v=LmzRRICp390  
 
+Investing With Rose    
+https://www.youtube.com/watch?v=tskh-QCCH-o&t=466s     
+https://www.youtube.com/watch?v=Gr5a6oJqrvA      
 
 iPlan Knowledge & News    
 https://www.youtube.com/channel/UCPalj8V_OwEh-E-qirk242A     
@@ -82,14 +95,7 @@ https://www.youtube.com/channel/UCbKdotYtcY9SxoU8CYAXdvg
 Ale's World of Stocks    
 https://www.youtube.com/channel/UCXhrqxFZbG-k8l7v-XhX3ZQ     
 
-Honeystocks.com    
-https://www.youtube.com/channel/UCmNwLkHnslfzEtO2S16vmcQ/videos    
-
-13 Market Moves    
-https://www.youtube.com/channel/UCHylXoREffYSx9YiVJvsrjw/videos     
-
-CiovaccoCapital     
-https://www.youtube.com/user/CiovaccoCapital/videos       
+   
 
 JJ Buckner     
 https://www.youtube.com/channel/UCweFuIP49kB3ihHy9bKp48g/videos      
