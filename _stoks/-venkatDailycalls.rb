@@ -1,6 +1,7 @@
 
 
 
+3/23/2020   
 Play entry above 10.25, stop below 10, target 15.40
 AMZN  long above 1920, target 160  , stop below 1900 
 BA  long near 103, target 120 , stop below 100
