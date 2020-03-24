@@ -3,6 +3,8 @@
 
 3/23/2020   
 Play entry above 10.25, stop below 10, target 15.40
+BABA
+BIDU
 AMZN  long above 1920, target 160  , stop below 1900 
 BA  long near 103, target 120 , stop below 100
 NVDA Long above 213.50  target 221 and 232   stop below 212 
