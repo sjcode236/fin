@@ -1,5 +1,8 @@
 
 
+3/26/2020     
+
+
 
 3/23/2020   
 Play entry above 10.25, stop below 10, target 15.40
