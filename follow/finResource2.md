@@ -47,6 +47,15 @@ https://www.youtube.com/user/CiovaccoCapital/videos
 
 
 =====    
+
+Trade With Trend 
+
+
+Trade With Trend     
+https://www.youtube.com/user/poweryourstocks/videos     
+Intraday Trading Strategies Beginners - Intraday Trading Trend Analysis     
+https://www.youtube.com/watch?v=F4tnxtjUMjU    
+
 Rodney E. Constable  S&P 500 Technical Analysis     
 https://www.youtube.com/channel/UC3QwmdBpXw1ik5DD-SNnktw/videos     
 
@@ -55,12 +64,10 @@ Money and Life TV
 https://www.youtube.com/watch?v=LmzRRICp390  
 
 Investing With Rose    
+https://www.youtube.com/channel/UCIbslwukNCyVp-XMz_2-gmw/videos    
 https://www.youtube.com/watch?v=tskh-QCCH-o&t=466s     
 https://www.youtube.com/watch?v=Gr5a6oJqrvA      
 
-
-Investing With Rose
-https://www.youtube.com/channel/UCIbslwukNCyVp-XMz_2-gmw 
 
 iPlan Knowledge & News    
 https://www.youtube.com/channel/UCPalj8V_OwEh-E-qirk242A     
@@ -82,8 +89,12 @@ https://www.youtube.com/channel/UCDkT7dDW13fwBGm2jW7JVTw
 Graham Stephan   
 https://www.youtube.com/channel/UCV6KDgJskWaEckne5aPA0aQ    
 
-Financial Education   
-https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ   
+Financial Education     
+https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ      
+https://www.youtube.com/watch?v=AZcO1H8J8H4     
+Financial Education 2     
+https://www.youtube.com/channel/UCCmJVw9xQfYuuAAwZGedKRg/videos      
+
 
 Brian Tracy   
 https://www.youtube.com/channel/UCc11676iKpKrJMYqNYHqNig    
