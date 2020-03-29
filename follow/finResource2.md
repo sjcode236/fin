@@ -45,6 +45,8 @@ https://www.youtube.com/channel/UCHylXoREffYSx9YiVJvsrjw/videos
 CiovaccoCapital     
 https://www.youtube.com/user/CiovaccoCapital/videos    
 
+Game of Trades - Technical Analysis     
+https://www.youtube.com/channel/UCOHxDwCcOzBaLkeTazanwcw/videos     
 
 =====    
 
