@@ -45,6 +45,8 @@ https://www.youtube.com/channel/UCHylXoREffYSx9YiVJvsrjw/videos
 CiovaccoCapital     
 https://www.youtube.com/user/CiovaccoCapital/videos    
 
+
+=====    
 Rodney E. Constable  S&P 500 Technical Analysis     
 https://www.youtube.com/channel/UC3QwmdBpXw1ik5DD-SNnktw/videos     
 
