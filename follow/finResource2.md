@@ -45,6 +45,8 @@ https://www.youtube.com/channel/UCHylXoREffYSx9YiVJvsrjw/videos
 CiovaccoCapital     
 https://www.youtube.com/user/CiovaccoCapital/videos    
 
+Rodney E. Constable  S&P 500 Technical Analysis     
+https://www.youtube.com/channel/UC3QwmdBpXw1ik5DD-SNnktw/videos     
 
 
 Money and Life TV   
@@ -53,6 +55,10 @@ https://www.youtube.com/watch?v=LmzRRICp390
 Investing With Rose    
 https://www.youtube.com/watch?v=tskh-QCCH-o&t=466s     
 https://www.youtube.com/watch?v=Gr5a6oJqrvA      
+
+
+Investing With Rose
+https://www.youtube.com/channel/UCIbslwukNCyVp-XMz_2-gmw 
 
 iPlan Knowledge & News    
 https://www.youtube.com/channel/UCPalj8V_OwEh-E-qirk242A     
@@ -63,9 +69,7 @@ https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/videos
 
 The Millennial Investor   
 https://www.youtube.com/channel/UCZSoDzzV7DK49XtyBWnsVLA      
-
-Investing With Rose
-https://www.youtube.com/channel/UCIbslwukNCyVp-XMz_2-gmw    
+   
 
 Minority Mindset    
 https://www.youtube.com/channel/UCT3EznhW_CNFcfOlyDNTLLw    
@@ -95,8 +99,7 @@ https://www.youtube.com/channel/UCbKdotYtcY9SxoU8CYAXdvg
 Ale's World of Stocks    
 https://www.youtube.com/channel/UCXhrqxFZbG-k8l7v-XhX3ZQ     
 
-   
-
+ 
 JJ Buckner     
 https://www.youtube.com/channel/UCweFuIP49kB3ihHy9bKp48g/videos      
 
