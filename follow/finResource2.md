@@ -48,6 +48,9 @@ https://www.youtube.com/user/CiovaccoCapital/videos
 Game of Trades - Technical Analysis     
 https://www.youtube.com/channel/UCOHxDwCcOzBaLkeTazanwcw/videos     
 
+https://www.youtube.com/channel/UCSByjanIVVI8z4QY8wXuq
+
+
 =====    
 
 Trade With Trend 
