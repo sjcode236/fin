@@ -46,9 +46,11 @@ CiovaccoCapital
 https://www.youtube.com/user/CiovaccoCapital/videos    
 
 Game of Trades - Technical Analysis     
-https://www.youtube.com/channel/UCOHxDwCcOzBaLkeTazanwcw/videos     
+https://www.youtube.com/channel/UCOHxDwCcOzBaLkeTazanwcw/videos      
 
-https://www.youtube.com/channel/UCSByjanIVVI8z4QY8wXuq
+Spartan Trading    
+https://www.youtube.com/channel/UCSByjanIVVI8z4QY8wXuqwg     
+Options Basics  https://www.youtube.com/watch?v=-zXdsWj8onY&t=19s      
 
 
 =====    
