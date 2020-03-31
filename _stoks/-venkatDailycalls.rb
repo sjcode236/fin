@@ -1,7 +1,30 @@
 
 
-3/26/2020     
-
+3/31/2020     
+TSLA	below525	526;541;600			"support 445 if break downT 386 and 350 next levels
+uptarget 541 & 600"
+RCL	ard33	t35;42			
+BA	curr156	t160	st155		
+USO					longTerm +5 in Jan2021
+FCX					notFromVenkat ,FCX produceHighQualityCopper for china manufacturing
+FIS	abv126	t131	st124.50		
+CAT	Lnear111.50	t115	st110.50		
+DE	Labv142.50	t149.50	st141.25		
+HSY	Labv139.75	t143	st138.75		
+HUBS	Lnear 139.25	t145.50	st137.50		
+ANTM	Labv236.50	t249.5	st235		
+FB	abv168.50	t173	st166.50		
+MSFT	Labv160.50	t164;166.5	st159.5		
+RMD	Lnear154	t157.75	st152.50		
+VEEV	entNear157	t165	st155.50		
+NVDA	abv265.50	t275;284;294;316	st254		
+MMM	Labv140	t152	st138 		
+ABT 	Abv77	81;86	Blw76		ABT res@77 above77 longT81 , 86 stopBlw76
+MPC	abv25	T29,30,37.50	stblw24		Labv 25 , Tar29, 30, 37.50 stopBlw24
+					
+					
+					
+					
 
 
 3/23/2020   
