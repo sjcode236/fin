@@ -248,6 +248,8 @@ http://www.simplysafedividends.com/dividend-safety-scores/
     
 http://www.talkmarkets.com/    
     
+Retailstore Foor traffic and updates        
+https://www.placer.ai/blog/    
 
 Education     
 https://www.bmo.com/gam/ca/advisor/learning-centre    
