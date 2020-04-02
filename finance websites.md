@@ -35,6 +35,14 @@ https://www.investopedia.com/articles/optioninvestor/03/091003.asp
 COT Reports with Interactive Charts     
 https://www.tradingster.com/cot     
 
+see stock Orderflow   
+https://app.webull.com/stocks    
+
+Trading streams    
+https://www.tradingview.com/symbols/NYSE-DAL/technicals/    
+https://www.tradingview.com/streams/    
+
+
 ==========================================================================                     
 Thoughts on Market           
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
