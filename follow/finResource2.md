@@ -109,7 +109,6 @@ https://www.youtube.com/channel/UCc11676iKpKrJMYqNYHqNig
 Cooper Academy - Investing   
 https://www.youtube.com/channel/UCmHm0w-JJfC2Ll1Of_WObAQ    
 
-
 One Big Happy Life
 https://www.youtube.com/channel/UCawSNY3jbIhXKHCwMxz5CSg    
 
@@ -118,10 +117,14 @@ https://www.youtube.com/channel/UCbKdotYtcY9SxoU8CYAXdvg
 
 Ale's World of Stocks    
 https://www.youtube.com/channel/UCXhrqxFZbG-k8l7v-XhX3ZQ     
-
  
 JJ Buckner     
 https://www.youtube.com/channel/UCweFuIP49kB3ihHy9bKp48g/videos      
+
+Daniel Pronk     
+https://www.youtube.com/watch?v=rfuJAyLuMOU       
+
+
 
 
 
