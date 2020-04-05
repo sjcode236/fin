@@ -11,6 +11,7 @@ jets
 DAL   
 AAL   
 LUV   
+air canada  
 JetBlue Airways Corp.	JBLU    
 Allegiant Travel Co.	ALGT  
 Alaska Air Group Inc.	ALK   
