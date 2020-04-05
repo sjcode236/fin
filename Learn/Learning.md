@@ -23,6 +23,15 @@ https://www.fidelity.com/learning-center/tools-demos/research-tools/overview
 
 
 
+
+Rule #1: The Simple Strategy for Successful Investing in Only 15 Minutes a Week!    
+by Phil Town     
+https://www.youtube.com/redirect?q=https%3A%2F%2Famzn.to%2F2wP3xeA&redir_token=fwXfL-4rdJCY25EQNP6u9NWUmIN8MTU4NjEzMTg2M0AxNTg2MDQ1NDYz&v=rfuJAyLuMOU&event=video_description      
+
+
+
+
+
       
       
       
