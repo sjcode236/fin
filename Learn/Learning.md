@@ -1,5 +1,6 @@
       
       
+mega.nz account         
 https://www.khanacademy.org/economics-finance-domain/core-finance      
        
       
