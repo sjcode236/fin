@@ -1,6 +1,34 @@
 
 
-3/31/2020     
+
+4/6/2020  
+TSLA: (Day Trade only): Go long if TSLA crosses above 482, target 491 and 505, stop below 480
+If Market Opens in red, go short on TSLA at 479, target 460, stop above 482
+SHOP: Short below 349, target 337.75, 321 and 310, stop above 352
+BA: Long above 128, target 146, stop below 125
+BA: Short trade: Short at current price with a tight stop above 127, target 115.75
+WMT: Long above 120.25, target 122.25, stop below 119.50
+IRBT: Short below 36.75, target 32.80, stop above 38
+AMD: Short below 41.75, target 40.00, stop above 42.25
+HD: Long above 182.50, target 189, stop below 181
+TWLO: Short near 83, target 72, stop above 84
+SPLK: Short below 99.50, target 94, stop above 100.50
+AAPL: (Day trade only): Short below 239, target 234.25, stop above 240
+LULU: (Day trade only): Short below 179, target 172.50, stop above 180
+FDX: Short below 106, target 89, stop above 107
+NOW: (Day trade alert only): Short below 245.75, target 239, stop above 247
+MKTX: Long above 388, target 408, stop below 386
+DG: Long on a small pull back to 161, target 167, stop below 160
+QLYS: Long above 89, target 94.50, stop below 88
+AKAM: Long at current price, target 97.50, stop below 94.50
+ZS: Long at current price, target 65.50, stop below 62.50
+CPB: Long above 50, target 54, stop below 49
+SJM: Long above 113, target 121, stop below 112
+NVAX: Long above 16, target 17.70, stop below 14.90
+DLR: Long at current price(136.50), target 138.40 and 140, stop below 136
+MSFT Labv164.70  t169.50  
+
+3/31/2020  ====================================================================  
 TSLA	below525	526;541;600			"support 445 if break downT 386 and 350 next levels
 uptarget 541 & 600"
 RCL	ard33	t35;42			
