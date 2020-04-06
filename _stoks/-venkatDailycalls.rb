@@ -1,8 +1,6 @@
 
 
 
-
-
 4/6/2020  =============================================       
 TSLA: (Day Trade only): Go long if TSLA crosses above 482, target 491 and 505, stop below 480
 If Market Opens in red, go short on TSLA at 479, target 460, stop above 482
