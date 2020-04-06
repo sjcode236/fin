@@ -30,6 +30,8 @@ by Phil Town
 https://www.youtube.com/redirect?q=https%3A%2F%2Famzn.to%2F2wP3xeA&redir_token=fwXfL-4rdJCY25EQNP6u9NWUmIN8MTU4NjEzMTg2M0AxNTg2MDQ1NDYz&v=rfuJAyLuMOU&event=video_description      
 
 
+Option Trading    
+https://us.etrade.com/knowledge/library/options/options-trading-beginners     
 
 
 
