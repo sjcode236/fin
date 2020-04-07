@@ -16,4 +16,7 @@ SWTSX - Schwab Total Stock Market Index Fund  .03%  expense,
 • Energy     (NYSE:XLE) rose 4.09% to $29.79.
 • Technology (NYSE:XLK) rose 0.99% to $82.73.
 • Financial  (NYSE:XLF) decreased 0.12% to $21.39.   
+• Healthcare ETF ( XLV )
+========   
+IPO - RENISSANCE IPE ETF   
 
