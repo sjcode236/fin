@@ -4,8 +4,10 @@ E-TRADE
 What are options  https://us.etrade.com/knowledge/library/options/options-trading-beginners      
 How to trade options  https://us.etrade.com/knowledge/advanced-trading/how-to-trade-options     
 
-
-
+How to buy call options  https://us.etrade.com/knowledge/library/options/buying-calls    
+How to buy put options  https://us.etrade.com/knowledge/library/options/buying-puts     
+How to sell covered calls  https://us.etrade.com/knowledge/library/options/selling-calls      
+How to sell secured puts  https://us.etrade.com/knowledge/library/options/selling-puts      
 
 Buy to Open vs. Buy to Close Options    
 https://finance.zacks.com/buy-open-vs-buy-close-options-9872.html     
