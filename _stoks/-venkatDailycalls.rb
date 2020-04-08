@@ -1,6 +1,26 @@
 
 
 
+4-8-2020   
+UNH:	short below 244, target 238, stop above 245.50   
+ABBV: Short below 75, target 72, stop above 76
+AMD: Short below 47.25, target 46, stop above 47.50
+AMZN: Long on a small pull back to 2001, target 2042, stop below 1998.
+APD: Long above 207, target 214, stop below 205
+BABA: Long above 201.50, target 207, stop below 200.   
+	  Short trade: Short below 196.40, target 192.50, stop above 197.50
+CPRT: Long above 73.25, target 76.25, stop below 72
+FB: Short below 166, target 160, stop above 167.50.   
+	Long trade: Long at current price (If the market opens in green), target 178, stop below 167.50
+FFIV: Long at current price, target 121, stop below 115.50
+INTC: Short at current price, target 56.50, stop above 58.75
+MU: Short below 46, target 44.75, stop above 46.50
+SHOP: Short below 373, target 350, stop above 375
+SPOT: Long above 129.50, target 133, stop below 128
+TSLA: Long above 568.50, target 612 and 670, stop below 565
+WING: Long above 94.25, target 97 and 100, stop below 93
+OLLI: Long above 54.25, target 58, stop below 53.50
+
 4/6/2020  =============================================       
 TSLA: (Day Trade only): Go long if TSLA crosses above 482, target 491 and 505, stop below 480
 If Market Opens in red, go short on TSLA at 479, target 460, stop above 482
