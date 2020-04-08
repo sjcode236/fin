@@ -9,6 +9,15 @@ How to buy put options  https://us.etrade.com/knowledge/library/options/buying-p
 How to sell covered calls  https://us.etrade.com/knowledge/library/options/selling-calls      
 How to sell secured puts  https://us.etrade.com/knowledge/library/options/selling-puts      
 
+Options Trading for Beginners with E-TRADE   https://www.youtube.com/watch?v=ckLXs1cPBe4    
+https://www.youtube.com/watch?v=amU_sAqxGS4     
+Selling put options on stocks you like  https://www.youtube.com/watch?v=dV6T9Y9ZsTU    
+Trading options around earnings   https://www.youtube.com/watch?v=6t919_-Cz0I  
+Taking the first steps with options   https://www.youtube.com/watch?v=6ldzCsYziTk   
+Buying put options to take advantage of downward moves  https://www.youtube.com/watch?v=VV-Mex4qEKY    
+Buying call options to take advantage of upward moves   https://www.youtube.com/watch?v=U01zgOllQD0    
+
+
 Buy to Open vs. Buy to Close Options    
 https://finance.zacks.com/buy-open-vs-buy-close-options-9872.html     
 Shorting vs. Put Option    https://finance.zacks.com/shorting-vs-put-option-9283.html     
