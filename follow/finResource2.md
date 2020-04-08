@@ -102,6 +102,8 @@ https://www.youtube.com/watch?v=AZcO1H8J8H4
 Financial Education 2     
 https://www.youtube.com/channel/UCCmJVw9xQfYuuAAwZGedKRg/videos      
 
+Ryan Scribner   
+https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/videos     
 
 Brian Tracy   
 https://www.youtube.com/channel/UCc11676iKpKrJMYqNYHqNig    
