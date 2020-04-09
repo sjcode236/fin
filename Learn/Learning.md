@@ -33,9 +33,12 @@ https://www.youtube.com/redirect?q=https%3A%2F%2Famzn.to%2F2wP3xeA&redir_token=f
 Option Trading    
 https://us.etrade.com/knowledge/library/options/options-trading-beginners     
 
+SMB Training    
+https://www.smbtraining.com/     
+https://www.smbtraining.com/blog/      
 
 
-      
+
       
       
       
