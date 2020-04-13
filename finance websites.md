@@ -221,14 +221,14 @@ www.nasdaq.com/markets/crude-oil.aspx
 www.bloomberg.com/energy    
 www.cnbc.com/energy/    
 www.reuters.com/finance/commodities    
-    
+https://www.investing.com/commodities/  
     
     
     
     
 Gold     
 www.bloomberg.com/markets/commodities/futures/metals    
-    
+https://www.investing.com/commodities/     
     
     
 Exchange Rates     
