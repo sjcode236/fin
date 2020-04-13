@@ -208,9 +208,11 @@ http://www.marketwatch.com/news/markets/earningswatch.asp
 www.marketwatch.com/tools/earningscalendar    
 http://www.marketwatch.com/earnings    
     
+www.earningswhispers.com/calendar     
 www.earningswhispers.com/results   
 www.benzinga.com/calendar/earnings    
 www.stocktwits.com/discover/earnings-calendar     
+
 
       
 Oil     
