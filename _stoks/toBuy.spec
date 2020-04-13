@@ -47,5 +47,11 @@ ETSY
 CVNA
 AMZN
 
+========Tech 
+xlc  tech  ETF   
+
+VZ    
+
+
 
 
