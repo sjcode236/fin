@@ -1,6 +1,8 @@
 
 
-5 Best Telecom and 5G  
+
+
+5 Best Telecom and 5G  for 2020 
 https://www.youtube.com/watch?v=yn3upcSBtJI   
 XLC    
 IXP   
