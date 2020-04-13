@@ -6,10 +6,10 @@
 XLE & XOP      
 AMLP put $2k        
 ET 
-EPD 
-WPX 
-APA
-DVN
+EPD  
+WPX  
+APA 
+DVN 
 
 
 
