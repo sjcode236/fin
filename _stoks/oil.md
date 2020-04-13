@@ -1,8 +1,8 @@
 
 Oil Futures  
-https://www.marketwatch.com/investing/future/crude%20oil%20-%20electronic
-https://www.investing.com/commodities/crude-oil    
-https://finance.yahoo.com/quote/CL=F   
+https://www.marketwatch.com/investing/future/crude%20oil%20-%20electronic     
+https://www.investing.com/commodities/crude-oil      
+https://finance.yahoo.com/quote/CL=F      
 
 
 =====10Mar2020========================================    
