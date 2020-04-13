@@ -5,12 +5,14 @@
 ===oil / REIT /    
 XLE & XOP      
 AMLP put $2k        
-ET 
+ET -> largest  pipline
 EPD  
 WPX  
 APA 
 DVN 
-
+OXY 
+VLO SUN MPC  PSX    
+CVX XOM COP     
 
 
 
