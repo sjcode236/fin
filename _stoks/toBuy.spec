@@ -51,7 +51,7 @@ AMZN
 
 ========Tech 
 xlc  tech  ETF   
-
+IXP 
 VZ    
 
 
