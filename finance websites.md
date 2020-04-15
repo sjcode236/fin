@@ -42,6 +42,7 @@ Trading streams,tech analyse,each stok idea,
 https://www.tradingview.com/symbols/NYSE-DAL/technicals/     
 https://www.tradingview.com/streams/     
 https://www.tradingview.com/screener/   screener    
+https://www.tradingview.com/markets/stocks-usa/ideas/   stock market ideas    
 
 ==========================================================================                     
 Thoughts on Market           
