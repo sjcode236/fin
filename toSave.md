@@ -1,9 +1,6 @@
 
 
 
-============================================   
-
-https://www.tradingview.com/screener/  
 
 =========================    
 https://www.titanvest.com/performance/   
