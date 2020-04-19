@@ -1,3 +1,4 @@
+check category links also     
 https://github.com/sjcode236/fin/blob/master/_stoks/oil.md     
 
 
