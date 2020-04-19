@@ -3,3 +3,8 @@
  
  
  
+TheTradingNinja[14+30=Lotto King]    https://twitter.com/TradeWithNinja       
+Julia Cordova ✨  https://twitter.com/CordovaTrades     
+ 
+ 
+ 
