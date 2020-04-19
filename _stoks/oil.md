@@ -27,3 +27,20 @@ Venkat  ====
 APA   -->venkat   
 DVN   -->venkat    
 OXY   -->venkat   
+Venkat Best Vlue    
+HFC HollyFrontier Corporation    P/E-4.3    
+COP  p/E=4.5    
+MPC  P/E=5.7    
+venkat  fastgrowth    
+VLO    
+HP     
+KMI    
+most Momentum by 18apr2020     
+KMI    
+CVX   
+COG   
+XLE    
+
+
+
+
