@@ -29,7 +29,7 @@ https://simpleflying.com/    airline news
 
 HOW I MADE ₹45 LAKHS IN 6 DAYS by Trading (with proof)  https://www.youtube.com/watch?v=Ixzo2b1YRJ8      
 
-
+Mike Webster: How To Grade Your Stocks During A Market Correction  https://www.youtube.com/watch?v=hFBdMrxh7Z0    
 
 
 
