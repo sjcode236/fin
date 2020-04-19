@@ -24,7 +24,9 @@ Shorting vs. Put Option    https://finance.zacks.com/shorting-vs-put-option-9283
 
  P R Sundar  ====================================    
 Option Buying & Selling - Advantages & Disadvantaged Explained! https://www.youtube.com/watch?v=wwZ157RxD4E&t=623s     
-OPTIONS Trading Basics - P R Sundar    
-https://www.youtube.com/watch?v=arWtafIY2ZE      
+OPTIONS Trading Basics - P R Sundar https://www.youtube.com/watch?v=arWtafIY2ZE      
+HOW I MADE ₹45 LAKHS IN 6 DAYS by Trading (with proof)  https://www.youtube.com/watch?v=Ixzo2b1YRJ8      
+
+
 
 
