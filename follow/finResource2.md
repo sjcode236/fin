@@ -34,6 +34,7 @@ https://www.bogleheads.org/forum/index.php
 ==== Venkat Damera  posts 
 
 Honeystocks.com   
+https://www.honeystocks.com/free-trial    
 https://www.youtube.com/channel/UCmNwLkHnslfzEtO2S16vmcQ/videos     
 
 Kay Kim    
@@ -55,7 +56,6 @@ Options Basics  https://www.youtube.com/watch?v=-zXdsWj8onY&t=19s
 
 =====    
 
-Trade With Trend 
 
 
 Trade With Trend     
