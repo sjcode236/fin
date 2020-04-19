@@ -21,7 +21,8 @@ https://www.fool.co.uk/mywallethero/best-share-dealing/buy-shares/
 https://www.youtube.com/watch?v=ZQnH1TVEeCw       
 
 
-https://www.youtube.com/watch?v=BDzVaKWJDo8
+
+The Top 5 Best Investing Apps In 2020 (US and International) https://www.youtube.com/watch?v=BDzVaKWJDo8
 
 
 
