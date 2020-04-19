@@ -13,6 +13,9 @@ DVN
 OXY 
 VLO SUN MPC  PSX    
 CVX XOM COP     
+MPC   
+XLE
+XOP  
 
 
 
@@ -31,16 +34,18 @@ H  Hyatt
 
 
 ====airline  
-canadian air 
+canadian air ACDVF
 UAL 
 LUV 
 AAL 
 SAVE 
 SPCE 
+JETS
 
 Micro processsor     
 MU
 NVDA 
+AMD   
 
 
 ===Retail===== 
@@ -48,6 +53,8 @@ RVLV
 ETSY 
 CVNA
 AMZN
+SHOP
+RH  
 
 ========Tech 
 xlc  tech  ETF   
