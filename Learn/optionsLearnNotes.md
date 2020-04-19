@@ -34,4 +34,15 @@ HOW I MADE ₹45 LAKHS IN 6 DAYS by Trading (with proof)  https://www.youtube.co
 
 
 
+Options Basics - What Is Rolling a Options Contract?    
+https://www.youtube.com/watch?v=-zXdsWj8onY&feature=em-uploademail      
+
+
+
+
+
+
+
+
+
 
