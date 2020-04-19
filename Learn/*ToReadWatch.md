@@ -31,6 +31,9 @@ HOW I MADE ₹45 LAKHS IN 6 DAYS by Trading (with proof)  https://www.youtube.co
 
 Mike Webster: How To Grade Your Stocks During A Market Correction  https://www.youtube.com/watch?v=hFBdMrxh7Z0    
 
+Trade4Living   https://www.youtube.com/channel/UCUEWNeD7Hfhof-FTq0JroGw/videos     
+Intraday tricks and traps | basic lessons for intraday traders |intraday trading strategies   https://www.youtube.com/watch?v=Q2thE7Kk0rs&t=159s      
+
 
 
 
