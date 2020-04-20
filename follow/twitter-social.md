@@ -8,5 +8,8 @@ Julia Cordova ✨  https://twitter.com/CordovaTrades
 
 Curtis Melonopoly  https://twitter.com/curtmelonopoly Compound Trading Group.     
 
+Kay Kim@2kaykim  https://twitter.com/2kaykim     
+
+
 Lakshmi 🥰 Harmonic Trader    https://twitter.com/Lakshmi_888      
  
