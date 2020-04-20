@@ -53,6 +53,8 @@ Spartan Trading
 https://www.youtube.com/channel/UCSByjanIVVI8z4QY8wXuqwg     
 Options Basics  https://www.youtube.com/watch?v=-zXdsWj8onY&t=19s      
 
+shadowtrader01     
+https://www.youtube.com/user/shadowtrader01/videos       
 
 =====    
 
