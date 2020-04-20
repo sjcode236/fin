@@ -4,6 +4,10 @@ https://www.marketwatch.com/investing/future/crude%20oil%20-%20electronic
 https://www.investing.com/commodities/crude-oil      
 https://finance.yahoo.com/quote/CL=F      
 
+====== Oil Futures price     
+https://www.barchart.com/futures/quotes/CL*0/futures-prices     
+https://www.cmegroup.com/trading/energy/crude-oil/light-sweet-crude.html     
+https://quotes.ino.com/exchanges/contracts.html?r=NYMEX_CL
 
 =====10Mar2020========================================    
 https://www.youtube.com/watch?v=H8fLQsv_O8Y&list=PLM0xbngSSuG8D2f3t_MZvHBP3Zcmm3dja&index=1     
