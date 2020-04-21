@@ -10,6 +10,7 @@ Curtis Melonopoly  https://twitter.com/curtmelonopoly Compound Trading Group.
 
 Kay Kim@2kaykim  https://twitter.com/2kaykim     
 
+EPIC Crude Oil Algorithm  https://twitter.com/EPICtheAlgo    
 
 Lakshmi 🥰 Harmonic Trader    https://twitter.com/Lakshmi_888      
  
