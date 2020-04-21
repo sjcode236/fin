@@ -14,3 +14,7 @@ Learn https://github.com/sjcode236/fin/tree/master/Learn
 Twitter-social https://github.com/sjcode236/fin/blob/master/follow/twitter-social.md     
 
 upgrade-downgrade  https://github.com/sjcode236/fin/blob/master/updownRatings.md      
+
+
+
+Oil prices & tickers https://github.com/sjcode236/fin/blob/master/_stoks/oil.md     
