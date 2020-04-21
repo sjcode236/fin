@@ -15,6 +15,7 @@ Twitter-social https://github.com/sjcode236/fin/blob/master/follow/twitter-socia
 
 upgrade-downgrade  https://github.com/sjcode236/fin/blob/master/updownRatings.md      
 
-
+.   
+.   
 
 Oil prices & tickers https://github.com/sjcode236/fin/blob/master/_stoks/oil.md     
