@@ -18,6 +18,7 @@ www.investing.com/  Financial Summary, divident history,earning history, Technic
 
 https://www.marketbeat.com/ratings/by-issuer/   rating by firms , price targets    
 https://www.marketbeat.com/ratings/us/  stochasticsRSI,analyst Targets,   
+https://www.americanbankingnews.com/category/market-news/analyst-articles-us  analyst-articles-us          
 http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022    
 https://github.com/sjcode236/fin/blob/master/priceRatings.md     
 https://www.fool.com/premium/stock-advisor/     
