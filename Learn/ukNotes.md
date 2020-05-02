@@ -23,6 +23,10 @@ Investing For Beginners UK - FAQs   https://www.youtube.com/watch?v=1es-tIzzpCI
 Stock Market For Beginners 2020 | How To Invest (Step by Step)   https://www.youtube.com/watch?v=dFAiChOmoGI      
 Stock Market For Beginners 2019    https://www.youtube.com/watch?v=Anne81DT5K0&t=308s   
 
+UK ISA Investor Guide to US Shares Investing  https://www.youtube.com/watch?v=YSHEAugoKi0      
+#1 Investment Plan - How to Build a 6-Figure Portfolio Guide.  https://www.youtube.com/watch?v=6erUaJJQMk4     
+https://www.youtube.com/channel/UCwvNyOWGxKPR79qYUXMHs2w/videos     
+
 =======Good UK Share Dealing Accounts for 2020       
 https://uk.stockbrokers.com/guides/share-dealing-accounts     
 https://www.fool.co.uk/mywallethero/best-share-dealing/buy-shares/      
