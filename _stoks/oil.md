@@ -11,6 +11,9 @@ https://quotes.ino.com/exchanges/contracts.html?r=NYMEX_CL
 
 EPIC Crude Oil Algorithm https://twitter.com/EPICtheAlgo    
 
+
+
+ENB   -->saw artilce in seeking alpha, once see in motelyfool ,  good strong midstream       
 =====10Mar2020========================================    
 https://www.youtube.com/watch?v=H8fLQsv_O8Y&list=PLM0xbngSSuG8D2f3t_MZvHBP3Zcmm3dja&index=1     
 high dividend midstream stocks  "Let's Talk Money! with Joseph Hogue, CFA"    
