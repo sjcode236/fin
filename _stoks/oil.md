@@ -29,7 +29,7 @@ SUN -->  sunoco  MLP,wholsale,rental franchising
 AB --->   asset management   
 Chimera Investment (CIM) --> Mortgage Reit  26% return 
 
-===== Venkat  ==============================        
+===== Venkat  ====APR2020==========================        
 APA   -->venkat   
 DVN   -->venkat    
 OXY   -->venkat   
