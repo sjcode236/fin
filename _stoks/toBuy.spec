@@ -19,15 +19,15 @@ XOP
 
 
 
-REIT
+====REIT
 CIM mortage Reit high div, put 1k     
 
-entertainment    
+====entertainment    
 CCL   
 PLAY    
 MGM   
 
-Motel   
+=====Motel   
 BX 
 HLT 
 H  Hyatt  
@@ -42,13 +42,13 @@ SAVE
 SPCE 
 JETS
 
-Micro processsor     
+====Micro processsor =======   
 MU
 NVDA 
 AMD   
 
 
-===Retail===== 
+====Retail ========== 
 RVLV 
 ETSY 
 CVNA
@@ -56,7 +56,7 @@ AMZN
 SHOP
 RH  
 
-========Tech 
+====Tech =========== 
 xlc  tech  ETF   
 IXP 
 VZ    
