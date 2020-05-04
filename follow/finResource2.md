@@ -98,11 +98,9 @@ https://www.youtube.com/channel/UCDkT7dDW13fwBGm2jW7JVTw
 Graham Stephan   
 https://www.youtube.com/channel/UCV6KDgJskWaEckne5aPA0aQ    
 
-Financial Education     
-https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ      
-https://www.youtube.com/watch?v=AZcO1H8J8H4     
-Financial Education 2     
-https://www.youtube.com/channel/UCCmJVw9xQfYuuAAwZGedKRg/videos      
+Ted Bauman     
+https://www.youtube.com/channel/UCN0d-u-otNRZRxeT_yrBzFA/videos      
+   
 
 Ryan Scribner   
 https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/videos     
@@ -115,6 +113,12 @@ https://www.youtube.com/channel/UCmHm0w-JJfC2Ll1Of_WObAQ
 
 One Big Happy Life
 https://www.youtube.com/channel/UCawSNY3jbIhXKHCwMxz5CSg    
+
+Financial Education     
+https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ      
+https://www.youtube.com/watch?v=AZcO1H8J8H4     
+Financial Education 2     
+https://www.youtube.com/channel/UCCmJVw9xQfYuuAAwZGedKRg/videos    
 
 Let's Talk Money! with Joseph Hogue, CFA    
 https://www.youtube.com/channel/UCbKdotYtcY9SxoU8CYAXdvg    
