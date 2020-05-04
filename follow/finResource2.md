@@ -98,10 +98,6 @@ https://www.youtube.com/channel/UCDkT7dDW13fwBGm2jW7JVTw
 Graham Stephan   
 https://www.youtube.com/channel/UCV6KDgJskWaEckne5aPA0aQ    
 
-Ted Bauman     
-https://www.youtube.com/channel/UCN0d-u-otNRZRxeT_yrBzFA/videos      
-   
-
 Ryan Scribner   
 https://www.youtube.com/channel/UC3mjMoJuFnjYRBLon_6njbQ/videos     
 
@@ -113,6 +109,9 @@ https://www.youtube.com/channel/UCmHm0w-JJfC2Ll1Of_WObAQ
 
 One Big Happy Life
 https://www.youtube.com/channel/UCawSNY3jbIhXKHCwMxz5CSg    
+
+Ted Bauman     
+https://www.youtube.com/channel/UCN0d-u-otNRZRxeT_yrBzFA/videos     
 
 Financial Education     
 https://www.youtube.com/channel/UCnMn36GT_H0X-w5_ckLtlgQ      
