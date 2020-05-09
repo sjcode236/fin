@@ -8,7 +8,7 @@ Julia Cordova ✨  https://twitter.com/CordovaTrades
 
 Curtis Melonopoly  https://twitter.com/curtmelonopoly Compound Trading Group.     
 
-Kay Kim@2kaykim  https://twitter.com/2kaykim     
+Kay Kim@2kaykim  https://twitter.com/2kaykim     https://www.youtube.com/user/2kaykim/videos     
 
 EPIC Crude Oil Algorithm  https://twitter.com/EPICtheAlgo    
 
