@@ -1,6 +1,149 @@
 
 
 
+
+====May4=======================================================
+UAL TSLA FB NOW CLX RGNX
+RGNX: Long above 42.50, target 44.75, stop below 41.50
+NOW:long abov347,stop below 346, target 352
+TSLA: Solid short below 50 MA at 640, target 580 stop above 650
+UAL: Short below 24.50, target 21.50, stop above 25
+CMG: Long above 900, target 935, stop below 895
+BXRX: Long at current, target 3.55, stop below 3.00
+HOME: Long at current, target 2.90, stop below 2.29
+YTRA: Long at current with a tight stop below 1.20, target 1.43 and 1.65
+MYO: Long above 5.75, target 7.50, stop below 5.50
+PVG: Long above 8.60, target 9.25, stop below 8.45
+MIST: Long  on a small pull back to 3.50, target 6+, stop below 3.30
+POOL: Long above 217.50, target 228, stop below 215.75
+CLX: Long above 199, target 230.50, stop below 197.50
+DXCM: Long above 351, target 380, stop below 346
+CHTR: Long above 517, target 523 and 543, stop below  512
+MOH: Long above 175, target 180, stop below 173.50
+IRBT: Long above 61.75, target 71, stop below 60.50
+NKE: Short at current price, target 82.80, stop above 86.75
+FB: Long above 204, target 210 and 218, stop below 202.25
+LYFT: Short at current price, target 26.75, stop above 30.60
+DPZ: Short below 354, target 342, stop above 357
+SHOP: Short below 590, target 567, stop above 594
+LRCX: Short below 227, target 213, stop above 229
+AMZN: Short below 2255, target 2200, stop above 2267
+
+====Apr30=======================================================
+PLAN: Long above 42, target 44, stop below 41.50
+ONTO: Long above 36.75, target 39, stop below 36
+CCL: Long above 17, target 19, stop below 16.25
+CRNC: Long on a small pull back to 22, target 24, stop below 21.50
+SERV: Long above 35, target 38, stop below 34
+FPAY: Long at current price, target 1.45, stop below 1.15
+CEN: Long above 1.32, target 1.68, stop below 1.25
+NR: Entry at current price, target 1.84, stop below 1.30
+KOS: Long at current, target 1.84, stop below 1.33
+TLRD: Long at current price, target 2.17, stop below 1.66
+EYES: Long at current price, target 2.54, stop below 1.95
+====apr29===============================================================
+DCP swing trade, entry at current price, target $9, stop below 7.25
+RUTH: Entry above 9.25, target 11, stop below 8.50
+NTGR: Entry above 23.75, targets 25.25 and 27.25
+AXP: Long above 89, target 92.50, stop below 88
+WEC: Long at current, target 100, stop below 93.25
+MDP: Long above 15, target 17.50, stop below 14.25 
+MIE: Entry above 2.20, target 3.00, stop below 2.05
+PLAY: Long above 16, target 18.75, stop below 15.25
+====Apr28-2020==========================================================
+KSS  ERI  TTD  ETM BXRX CEM  BA 
+ETM: Long above 1.30, target 1.75, stop below 1.20 
+ELVT: Long at current price, target 1.88, stop below 1.40
+CVGI: Entry on a small pull back tp 1.75, target 2.50, stop below 1.65
+AYTU: Long above 2.12, target 2.40, stop below 2.00
+CEM: Long above 3.25, target 3.90, stop below 3.10
+ZIOP: Entry at current, target 3.35, stop below 3.00
+BXRX: Entry at current, target 3.60, stop below 3.05
+AMC: Long above 3.45, target 3.98, stop below 3.25
+RH: Long on a small pull to 141, target 156, stop below 139
+STMP: Long at current, target 175, stop below 155
+WYNN: Long above 84.50, target 94, stop below 82.50
+THO: Long on a small pull back, target 68.50, stop below 61
+GPI: Long at current price, target 58, stop below 50.50
+KSS: Entry on a small pull back to 17.50, target 21.25, stop below 16.25
+ERI: Long above 20.75, target 25.50, stop below 19.50
+CMA: Long on a small pull back, target 37, stop below 32.50
+SPLK : Long above 135.50, target 140 and 144, stop below 133.50
+TXN: Long at current, target 119.75, stop below 114.50
+
+====Apr27-2020=================================================================
+MIK ADS TTD DFS WEX DGX AAN COF FCEL LDOS
+ETSY target 71 
+GTLS Swing long at current, target 36, stop 31.75
+ADS Swing ; stop below 40.50 ;target 45.50 ; new price targets to $50 analysts 
+AAN: Long above 26.75, target 30.50, stop below 25.75
+ADBE: Entry above break trendline around 348, target 359, stop below 345.50
+AGS: Long above 3.45, target 4.25, stop below 330
+ALZN: Long on a small pullback to 107, target 109 and 113.50, stop below 105.50
+AXSM: Long above 80.75, target 91.50, stop below 77.50
+BMY: Long above 62.75, target 64.75, stop below 62
+CAAP: Long at current, target 2.50, stop below 2.03
+CARS: Entry above 4.50 target 5.00 and 6.00, stop below 4.35
+CCXI: Long above 52, target 58, stop below 50.75
+
+COF: Long above 57.50, target 62.50, stop below 55
+CTLT: Long above 61, target 67, stop below 59.75
+CVM: Long above 15.25, target 17, stop below 14.50
+DFS: Long above 36.75, target 42, stop below 35.25
+DGX: Entry above 109, target 112, stop below 108
+DT: Long above 29.75, target 33, stop below 29.40
+ERI: Long above 21, target 25, stop below 19
+FAF: Long at current, target 47.75, stop below 43.50
+FAST: Enter at current, target 37.60, stop below 35.50 ( Open your position as soon as the market opens and close before EOD tomorrow.
+FCEL: Long on a pull back to 2.00, target 2.88, stop below 1.90
+HD: Long  on a small pull back to 211.50, target 216.50, stop 210.75
+IT: Entry at current, target 113, stop below 109
+KLAC: Entry above 166.50, target 172.50, stop below 165
+LDOS: Long on a small pull back to 100, target 106.50, stop below 99
+LIFT: Long above 32.50, target 34.50, stop below 32
+LW: Long above 58.75, target 62.25, stop below 57.50
+MIE: Entry above 2.20, target 3.00, stop below 2.05
+MIK: Long at current, target 2.92, stop below 2.25
+NVDA: ENtry above 291, target 296, stop below 288.50
+POOL: Long above 216.25, target 227, stop 2114.25
+RGNX: Long above 42.50, target 44.75, stop below 41.50
+RIOT: Long at current price, target 1.38 and 1.54, stop below 1.20
+SBNY: Entry above 94.50, target 98.50, stop below 92.75
+SIVB: Long above 187, target 195, stop below 185.75
+SNA: Long above 117.50, target 124.50, stop below 116
+TCBI: Long at current price, target 29.75, stop below 24.75
+TRWH: Long on a small pull back to 13.25, target 15.00, stop below 12.60
+TTWO: Long above 128.50, targets 131.50 and 133.25, stop below 127
+W: Long at current price, target 135, stop 120.50
+W: Target 112.50, stop below 97  
+WEX: Entry above 112.50, targets 116 and 129, stop below 110.50
+TTD: Enter TTD above 265 ,stop 264, target 278
+==================================================
+APT entry above 14.75, target 16, stop 14.25  
+MELI : Entry above 636.50, target 667 and 697, stop below 630 
+GOOG: Long above 1285, target 1335, stop below 1271
+AAPL : long ;target 290; stop 287
+NVDA :long above 290;target 316 ; stop 285; 
+LULU: Long above 210.50, target 218 , stop below 209
+SHOP enter above 517.50; target  548;stop 515.50
+
+=====alert for APR-15===== 
+AMZN short below 2245 ; Target 2213 and 2178 ; stop 2261
+SHOP: Go long on a pull back to 488, target 512 and 550, stop below 484
+TSLA: Long above 745, target 805, stop below 728
+COUP: Long on a small pull back to 155.50, target 163 and 175, stop below 153.50
+NOW: Long at current price, target 318, stop below 300
+COST: Long above 315.25, target 324, stop below 314
+NVDA: Long above 286, target 290 and 316, stop below 284
+ANTM: Long at current price, target 261, stop below 249.50
+AMGN: Long on a small pull back to 225.50, target 233, stop below 224
+MSFT: Long on a pull back to 172, target 175 and 180, stop below 171
+KMB: Long on a small pull back to 139, target 148, stop below 138
+INSP" Long above 71.50, target 76, stop below 70
+WYNN: Long at current price, target 83.50, stop below 72.50
+ZTS: Long above 130, target 134, stop below 128.50
+THOR: Long above 52, target 55, stop below 51.20
+AMD: Long on a pull back to 53.50, target 58.50, stop below 52.75
 4-8-2020   
 UNH:	short below 244, target 238, stop above 245.50   
 ABBV: Short below 75, target 72, stop above 76
