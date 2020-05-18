@@ -2,9 +2,13 @@
 
 
 
-
+CLSD MITT PBT TCON CECE vEON NMR
+=====================================================================================
+  Tasty trade has tons of great videos on youtube. Look for their channel
+  
 ================================================================================================
-Options are risky 
+Mani N
+  Options are risky 
 Always think of how much will I lose if I am wrong 
 
 Always play limited risk strategies 
@@ -46,4 +50,27 @@ My analogy is the option is like an ice cube that is constantly melting
 
 But even in this strategy hedge so you can sleep well
 My two cents for what it is worth for all in the group
+=============
+Identify limited risk strategies
+Paper trade for one or two months
+Write down every trade 
+Reevaluate every trade on the weekend 
+Figure out how the option behaved 
+What happened to delta , gamma  and theta during the life of that option 
+
+This will give you a good understanding 
+
+Learn about credit spreads 
+Start of with this strategy with one contract on each side
+It is limited risk limited reward 
+
+When you feel comfortable increase the size of your position 
+
+It is a long  learning process
+  
+========
+
+  
+  
+  
 ==========================================================================================================
