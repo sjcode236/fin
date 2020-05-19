@@ -89,7 +89,9 @@ https://us.etrade.com/knowledge/markets-news
 https://www.schwab.com/resource-center/insights/content/schwab-market-update       
 https://www.schwab.com/resource-center/insights/section/market-commentary       
        
-https://www.nasdaq.com/news/market-headlines.aspx        
+https://www.nasdaq.com/news/market-headlines.aspx      
+www.nasdaq.com/market-activity/after-hours     
+www.nasdaq.com/market-activity/pre-market     
        
 https://www.zacks.com/stock-market-today     
 
