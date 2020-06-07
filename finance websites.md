@@ -45,6 +45,12 @@ https://www.tradingview.com/streams/
 https://www.tradingview.com/screener/   screener    
 https://www.tradingview.com/markets/stocks-usa/ideas/   stock market ideas    
 
+ETF  secter view    
+https://www.cnbc.com/sector-etfs/    
+https://seekingalpha.com/etfs-and-funds/etf-tables/sectors    
+https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns     
+https://etfdb.com/etfs/sector/    
+    
 ==========================================================================                     
 Thoughts on Market           
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
