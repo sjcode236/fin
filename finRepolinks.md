@@ -10,7 +10,7 @@ youTubeChannels https://github.com/sjcode236/fin/blob/master/follow/finResource2
 FB-youtubePikcs  https://github.com/sjcode236/fin/tree/master/_stkPicks  
 stoks https://github.com/sjcode236/fin/tree/master/_stoks     
 Learn https://github.com/sjcode236/fin/tree/master/Learn     
-
+ETF biglist https://github.com/sjcode236/fin/blob/master/_funds/etfBigList.md     
 Twitter-social https://github.com/sjcode236/fin/blob/master/follow/twitter-social.md     
 
 upgrade-downgrade  https://github.com/sjcode236/fin/blob/master/updownRatings.md      
@@ -18,4 +18,4 @@ upgrade-downgrade  https://github.com/sjcode236/fin/blob/master/updownRatings.md
 .   
 .   
 
-Oil prices & tickers https://github.com/sjcode236/fin/blob/master/_stoks/oil.md     
+Oil prices & tickers https://github.com/sjcode236/fin/blob/master/_stoks/oil.md       
