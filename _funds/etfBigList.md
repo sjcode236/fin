@@ -1,6 +1,11 @@
 
 
-
+ETF  secter view    
+https://www.cnbc.com/sector-etfs/    
+https://seekingalpha.com/etfs-and-funds/etf-tables/sectors    
+https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns     
+https://etfdb.com/etfs/sector/    
+    
 
 
 == voo  Vanguard S&P 500 ETF (VOO)   
