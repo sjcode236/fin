@@ -14,7 +14,7 @@ ETF biglist https://github.com/sjcode236/fin/blob/master/_funds/etfBigList.md
 Learn https://github.com/sjcode236/fin/tree/master/Learn     
 Twitter-social https://github.com/sjcode236/fin/blob/master/follow/twitter-social.md     
 
-upgrade-downgrade  https://github.com/sjcode236/fin/blob/master/updownRatings.md      
+upgrade-downgrade Rating https://github.com/sjcode236/fin/blob/master/RatingUp-downgrade.md      
 
 .   
 .   
