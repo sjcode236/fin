@@ -10,11 +10,12 @@ Curtis Melonopoly  https://twitter.com/curtmelonopoly Compound Trading Group.
 
 Kay Kim@2kaykim  https://twitter.com/2kaykim     https://www.youtube.com/user/2kaykim/videos     
 
-EPIC Crude Oil Algorithm  https://twitter.com/EPICtheAlgo    
+EPIC Crude Oil Algorithm  https://twitter.com/EPICtheAlgo      
 
 Lakshmi 🥰 Harmonic Trader    https://twitter.com/Lakshmi_888      
  
-Douglas A. Boneparth   https://twitter.com/dougboneparth    
+Douglas A. Boneparth   https://twitter.com/dougboneparth     
 
 Relative Strength Investor https://twitter.com/RSInvestor     
  
+Morgan Stanley  https://twitter.com/morganstanley      
