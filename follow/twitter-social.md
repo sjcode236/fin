@@ -14,3 +14,7 @@ EPIC Crude Oil Algorithm  https://twitter.com/EPICtheAlgo
 
 Lakshmi 🥰 Harmonic Trader    https://twitter.com/Lakshmi_888      
  
+Douglas A. Boneparth   https://twitter.com/dougboneparth    
+
+Relative Strength Investor https://twitter.com/RSInvestor     
+ 
