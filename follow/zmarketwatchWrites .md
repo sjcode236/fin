@@ -8,3 +8,6 @@ https://www.marketwatch.com/story/12-good-investing-lessons-to-teach-kids-and-yo
 **Nigam Arora**    
 https://www.marketwatch.com/author/nigam-arora    
 
+
+Travis Hoium      
+https://www.fool.com/author/1787/       
