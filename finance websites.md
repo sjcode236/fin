@@ -110,9 +110,9 @@ https://www.tipranks.com/trending-stocks   ==> Tending stocks
 
   
 
-=========================================================================================  
+===============================================================================  
     
-https://finviz.com/  market map, oversold , overbought screening    
+https://finviz.com/  news,market map, oversold , overbought screening    
 https://finviz.com/screener.ashx?v=111&s=ta_oversold     
 https://finviz.com/map.ashx    
 
