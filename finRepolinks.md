@@ -21,9 +21,11 @@ upgrade-downgrade Rating https://github.com/sjcode236/fin/blob/master/RatingUp-d
 
 Oil prices & tickers https://github.com/sjcode236/fin/blob/master/_stoks/oil.md       
 
-blog writes     
+=====blog writes     
 motelyfool  https://github.com/sjcode236/fin/blob/master/follow/zmotelyFoolwrites.md     
 marketwatch https://github.com/sjcode236/fin/blob/master/follow/zmarketwatchWrites%20.md    
+miscWriters https://github.com/sjcode236/fin/blob/master/follow/zMiscWriters     
+
 
 
 
