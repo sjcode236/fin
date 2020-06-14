@@ -146,8 +146,8 @@ https://www.cnbc.com/trading-nation/
 https://www.cnbc.com/earnings-calendar/       
        
 https://www.bloomberg.com/markets  ,news, futures,       
-bloomberg.com/deals   
-bloomberg.com/markets/economics
+www.bloomberg.com/deals   
+www.bloomberg.com/markets/economics  
 www.bloomberg.com/markets/stocks       
 www.bloomberg.com/markets/commodities       
 www.bloomberg.com/view/topics       
