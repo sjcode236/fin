@@ -46,7 +46,7 @@ JETS
 MU
 NVDA 
 AMD   
-
+CRUS
 
 ====Retail ========== 
 RVLV 
