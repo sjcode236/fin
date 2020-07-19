@@ -36,14 +36,14 @@ https://www.investopedia.com/articles/optioninvestor/03/091003.asp
 COT Reports with Interactive Charts     
 https://www.tradingster.com/cot     
 
-see stock Orderflow   
+see stock Orderflow    
 https://app.webull.com/stocks    
 
 Trading streams,technical analyse,each stok idea,    
 https://www.tradingview.com/symbols/NYSE-DAL/technicals/     
 https://www.tradingview.com/streams/     
 https://www.tradingview.com/screener/   screener    
-https://www.tradingview.com/markets/stocks-usa/ideas/   stock market ideas    
+https://www.tradingview.com/markets/stocks-usa/ideas/   stock market ideas     
 
 ETF  secter view    
 https://www.cnbc.com/sector-etfs/    
@@ -51,6 +51,8 @@ https://seekingalpha.com/etfs-and-funds/etf-tables/sectors
 https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns     
 https://etfdb.com/etfs/sector/    
     
+Pennystocks     
+https://pennystocks.com/     
 ==========================================================================                     
 Thoughts on Market           
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
