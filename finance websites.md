@@ -53,6 +53,7 @@ https://etfdb.com/etfs/sector/
     
 Pennystocks     
 https://pennystocks.com/     
+
 ==========================================================================                     
 Thoughts on Market           
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
