@@ -1,7 +1,7 @@
 
 
-economy outlook and podcasts ....
-https://github.com/sjcode236/fin/blob/master/follow/finResource2.md    
+economy outlook and podcasts ....     
+resource Link https://github.com/sjcode236/fin/blob/master/follow/finResource2.md    
 
 https://www.morganstanley.com/ideas/thoughts-on-the-market   
 https://www.morganstanley.com/ideas/thoughts-on-the-market-wilson       
