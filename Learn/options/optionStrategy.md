@@ -1,0 +1,8 @@
+
+
+diagonal     
+butterfly     
+ironCondor     
+
+
+
