@@ -19,3 +19,7 @@ Douglas A. Boneparth   https://twitter.com/dougboneparth
 Relative Strength Investor https://twitter.com/RSInvestor     
  
 Morgan Stanley  https://twitter.com/morganstanley      
+
+Market Gains   ( this guy has video of Iron Condor Strategy https://www.youtube.com/watch?v=hW1LfBGzbnw )       
+https://www.youtube.com/channel/UCAdHc06OIXROHa3KCJTziKQ     
+https://twitter.com/gains_market      
