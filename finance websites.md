@@ -14,24 +14,26 @@ www.marketwatch.com    etf holdings, easy to see a stocks income in finance sect
 https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
 www.etrade.com : easy to see ratios in fundamentals section, Trefis  value , Tipranks target etc       
 bloomberg app  good to see  financials       
-www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,STOCHRSI,ratios, ....    
-
-https://www.marketbeat.com/ratings/by-issuer/   rating by firms , price targets    
-https://www.marketbeat.com/ratings/us/  stochasticsRSI,analyst Targets,   
+ 
 https://www.americanbankingnews.com/category/market-news/analyst-articles-us  analyst-articles-us          
 http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022    
 https://github.com/sjcode236/fin/blob/master/priceRatings.md     
 https://www.fool.com/premium/stock-advisor/     
-https://finviz.com/  market map, oversold , overbought screening ,price targets,biginfo table   
+https://finviz.com/  market map, oversold , overbought screening ,price targets,biginfo table    
 
-https://stockcharts.com/   stochasticsRSI   
+www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,STOCHRSI,ratios, ....    
+
+https://www.marketbeat.com/ratings/by-issuer/   rating by firms , price targets    
+https://www.marketbeat.com/ratings/us/  stochasticsRSI,analyst Targets,  
+https://stockcharts.com/   stochasticsRSI     
+https://www.tradingview.com/ stochRSI,chaikin money flow,MACD ; Technical Analysis     
+https://www.tradingview.com/symbols/NASDAQ-TSLA/technicals/ (Technical Analysis eg:- )     
 
 Fear & Greed Index     
-
 https://www.liberatedstocktrader.com/fear-and-greed-index/    
 https://money.cnn.com/data/fear-and-greed/    
-https://www.investopedia.com/anxiety-index-explained/    
-https://www.investopedia.com/articles/optioninvestor/03/091003.asp    
+https://www.investopedia.com/anxiety-index-explained/     
+https://www.investopedia.com/articles/optioninvestor/03/091003.asp     
 
 COT Reports with Interactive Charts     
 https://www.tradingster.com/cot     
