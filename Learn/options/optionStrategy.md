@@ -24,6 +24,6 @@ Vertical is a regular call or put spread.
 Vertical is a regular call or put spread.
 https://www.youtube.com/watch?v=6_0SbRaHv1U&feature=youtu.be    
 
-
-
+=====IronCondor================       
+https://www.youtube.com/watch?v=Eg8IyTPoaQY&feature=youtu.be     
 
