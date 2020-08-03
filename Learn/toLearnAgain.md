@@ -1,24 +1,6 @@
 
 
-check   toLearnAgain.md Gdrive    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+!!!!!!! check   toLearnAgain.md Gdrive    
 
 
 =======Beginners===================================================================     
