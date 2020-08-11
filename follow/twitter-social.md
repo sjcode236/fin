@@ -23,3 +23,12 @@ Morgan Stanley  https://twitter.com/morganstanley
 Market Gains   ( this guy has video of Iron Condor Strategy https://www.youtube.com/watch?v=hW1LfBGzbnw )       
 https://www.youtube.com/channel/UCAdHc06OIXROHa3KCJTziKQ     
 https://twitter.com/gains_market      
+
+
+
+
+
+
+===== FB groups    
+Stock Market Community   (by Bullish Bears  https://www.youtube.com/c/bullishbearstrading/  )       
+https://www.facebook.com/groups/204926083224731      
