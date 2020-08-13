@@ -24,7 +24,8 @@ Market Gains   ( this guy has video of Iron Condor Strategy https://www.youtube.
 https://www.youtube.com/channel/UCAdHc06OIXROHa3KCJTziKQ     
 https://twitter.com/gains_market      
 
-
+Holger Zschaepitz      
+https://twitter.com/Schuldensuehner/      
 
 
 
