@@ -2,6 +2,15 @@
 ==check Gdrive for more subscriptions    
 
 
+
+
+https://fintel.io/     
+Financial Research Tools , make financial research easy     
+21.99/mo   
+
+
+
+
 ===subscriptions====================
 
 motely fool 199 or 99
