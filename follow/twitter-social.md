@@ -27,7 +27,8 @@ https://twitter.com/gains_market
 Holger Zschaepitz      
 https://twitter.com/Schuldensuehner/      
 
-
+Axonopus Compressus - Indian Stocks tips    
+https://twitter.com/AxonopusC        
 
 
 ===== FB groups    
