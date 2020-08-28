@@ -30,6 +30,8 @@ https://twitter.com/Schuldensuehner/
 Axonopus Compressus - Indian Stocks tips    
 https://twitter.com/AxonopusC        
 
+DYOptions   https://twitter.com/data168      
+
 
 ===== FB groups    
 Stock Market Community   (by Bullish Bears  https://www.youtube.com/c/bullishbearstrading/  )       
