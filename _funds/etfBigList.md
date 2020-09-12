@@ -54,7 +54,7 @@ SWTSX  Schwab Total Stock Market Index Fund (SWTSX)
 
 VPU https://finance.yahoo.com/quote/VPU   Vanguard Utilities Index Fund ETF Shares (VPU)       
 
-===feeds notes ===================           
+===noteFeeds ===================           
 IVV   
 ITOT, FZROX   
 FSKAX (Total Money Market Index)   
