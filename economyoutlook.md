@@ -46,6 +46,8 @@ https://www.podparadise.com/Podcast/1052541481
 
 Schwab Market Update Audio    
 
+AAII Investor Sentiment Survey   
+https://www.aaii.com/sentimentsurvey     
 
 InvestTalk - Investment in Stock Market, Financial Planning, Retirement Planning, Money Management Podcast    
 https://www.podparadise.com/Podcast/280789489    
