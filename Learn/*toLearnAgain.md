@@ -1,7 +1,6 @@
 
 
-!!!!!!! check   toLearnAgain.md Gdrive    
-
+!!!!!!! check   toLearnAgain.md Gdrive    https://docs.google.com/document/d/1QMJcP72QYdEgfJM6BShlQuV3uzfOyKsUhplIGcKQ5z8/edit     
 
 =======Beginners===================================================================     
 
