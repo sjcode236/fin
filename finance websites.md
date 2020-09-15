@@ -133,7 +133,8 @@ https://www.investing.com/equities/tesla-motors-earnings
 https://www.scutify.com/    
 http://www.scutify.com/sentiment-rankings.html     
   
-https://stocktwits.com/   earnings calendar ,twits    
+https://stocktwits.com/   --earnings calendar ,twits    
+https://stocktwits.com/topic/FLOWTRADE    --#FLOWTRADE      
 
 AI stock filter, TechnicalAnalysis , AI-adviser    
 https://stocktwits.com/tickeron   
