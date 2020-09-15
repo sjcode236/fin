@@ -1,5 +1,9 @@
 
 
+Option profit  Calculator   
+https://www.optionsprofitcalculator.com/     
+
+
 E-TRADE    
 What are options  https://us.etrade.com/knowledge/library/options/options-trading-beginners      
 How to trade options  https://us.etrade.com/knowledge/advanced-trading/how-to-trade-options     
