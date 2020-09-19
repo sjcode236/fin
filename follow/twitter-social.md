@@ -32,7 +32,7 @@ https://twitter.com/AxonopusC
 
 DYOptions   https://twitter.com/data168      
 
-https://www.facebook.com/hedgemindLLC/     
+HedgeMind    https://www.facebook.com/hedgemindLLC/     
 https://stocktwits.com/HedgeMind      
 https://twitter.com/HedgeMind        
 
