@@ -32,6 +32,11 @@ https://twitter.com/AxonopusC
 
 DYOptions   https://twitter.com/data168      
 
+https://www.facebook.com/hedgemindLLC/     
+https://stocktwits.com/HedgeMind      
+https://twitter.com/HedgeMind        
+
+
 
 ===== FB groups    
 Stock Market Community   (by Bullish Bears  https://www.youtube.com/c/bullishbearstrading/  )       
