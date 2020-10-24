@@ -23,7 +23,7 @@ https://www.facebook.com/RetireBeforeDad/
 
 
 ==== youtube   ===================      
-https://docs.google.com/document/d/1hKbNGg4V2cF5cCuMNtXSC5lNY-CUaW4QUJj8Rhcx7ug/edit?usp=sharing    
+https://github.com/sjcode236/fin/blob/master/follow/youtubeChannels.md    
 
 
 
