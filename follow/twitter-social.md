@@ -1,43 +1,8 @@
  
- http://finance236.blogspot.com/p/twitter-to-follow.html     
+ finance236  blog    
+ http://finance236.blogspot.com/p/twitter-to-follow.html      
  
+ GoogleDrive    
+ https://docs.google.com/document/d/1hKbNGg4V2cF5cCuMNtXSC5lNY-CUaW4QUJj8Rhcx7ug/edit?usp=sharing     
  
- 
-TheTradingNinja[14+30=Lotto King]    https://twitter.com/TradeWithNinja       
-Julia Cordova ✨  https://twitter.com/CordovaTrades     
-
-Curtis Melonopoly  https://twitter.com/curtmelonopoly Compound Trading Group.     
-
-Kay Kim@2kaykim  https://twitter.com/2kaykim     https://www.youtube.com/user/2kaykim/videos     
-
-EPIC Crude Oil Algorithm  https://twitter.com/EPICtheAlgo      
-
-Lakshmi 🥰 Harmonic Trader    https://twitter.com/Lakshmi_888      
- 
-Douglas A. Boneparth   https://twitter.com/dougboneparth     
-
-Relative Strength Investor https://twitter.com/RSInvestor     
- 
-Morgan Stanley  https://twitter.com/morganstanley      
-
-Market Gains   ( this guy has video of Iron Condor Strategy https://www.youtube.com/watch?v=hW1LfBGzbnw )       
-https://www.youtube.com/channel/UCAdHc06OIXROHa3KCJTziKQ     
-https://twitter.com/gains_market      
-
-Holger Zschaepitz      
-https://twitter.com/Schuldensuehner/      
-
-Axonopus Compressus - Indian Stocks tips    
-https://twitter.com/AxonopusC        
-
-DYOptions   https://twitter.com/data168      
-
-HedgeMind    https://www.facebook.com/hedgemindLLC/     
-https://stocktwits.com/HedgeMind      
-https://twitter.com/HedgeMind        
-
-
-
-===== FB groups    
-Stock Market Community   (by Bullish Bears  https://www.youtube.com/c/bullishbearstrading/  )       
-https://www.facebook.com/groups/204926083224731      
+    
