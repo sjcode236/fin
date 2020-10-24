@@ -1,4 +1,2 @@
 
-https://github.com/sjcode236/fin/blob/master/follow/finResource2.md    
-
-at the end    
+https://docs.google.com/document/d/1hKbNGg4V2cF5cCuMNtXSC5lNY-CUaW4QUJj8Rhcx7ug/edit?usp=sharing    
