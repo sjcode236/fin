@@ -143,8 +143,10 @@ https://tickeron.com/app/newssearch/hashtags/stocks/TechnicalAnalysis
 https://tickeron.com/app/newssearch/hashtags/stocks/TechnicalAnalysis_Bullish    
 https://tickeron.com/app/newssearch/hashtags/stocks_etfs_mutualfunds_forex/Earnings    
  
-https://dashboard.stck.pro/   Social Financial News    
 
+https://www.stck.pro/  Social Financial News    
+
+https://spactrack.net/spacnews/    SPAC news    
  
 cnbc.com/       
 http://www.cnbc.com/the-deed/       
