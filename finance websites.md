@@ -136,6 +136,9 @@ http://www.scutify.com/sentiment-rankings.html
 https://stocktwits.com/   --earnings calendar ,twits    
 https://stocktwits.com/topic/FLOWTRADE    --#FLOWTRADE      
 
+https://www.reddit.com/r/wallstreetbets/  --forum    
+
+
 AI stock filter, TechnicalAnalysis , AI-adviser    
 https://stocktwits.com/tickeron   
 https://tickeron.com/app/newssearch/hashtags/stocks_etfs/TechnicalAnalysis_MovingAverage_Bullish    
