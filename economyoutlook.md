@@ -61,3 +61,11 @@ CHASE
 https://realinvestmentadvice.com/real-investment-daily/      
 https://www.youtube.com/channel/UCXVMMgEidXlrTM1coedg70A/videos      
 https://realinvestmentadvice.com/webinars/      
+
+
+All Star Charts.     
+https://allstarcharts.com/education/       
+https://allstarcharts.com/podcast/      
+
+
+
