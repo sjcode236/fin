@@ -7,6 +7,7 @@ XLK = Technology Select Sector SPDR ETF  https://www.marketwatch.com/investing/f
 XLB = aterials Select Sector SPDR ETF    https://www.marketwatch.com/investing/fund/xlb   
 XLE = Energy Select Sector SPDR Fund (XLE)   
 XLF - Financial Select Sector SPDR Fund    
+XRT  Retail ETF (NYSE:XRT)     
 SPY = SPDR S&P 500 ETF Trust   https://www.marketwatch.com/investing/fund/spy     
 
 
