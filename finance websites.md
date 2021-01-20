@@ -21,7 +21,7 @@ https://github.com/sjcode236/fin/blob/master/priceRatings.md
 https://www.fool.com/premium/stock-advisor/     
 https://finviz.com/  market map, oversold , overbought screening ,price targets,biginfo table    
 
-www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,STOCHRSI,ratios, ....    
+www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,STOCHRSI,ratios, More in down section ....    
 
 https://www.marketbeat.com/ratings/by-issuer/   rating by firms , price targets    
 https://www.marketbeat.com/ratings/us/  stochasticsRSI,analyst Targets,  
@@ -124,6 +124,7 @@ https://finviz.com/map.ashx
 quick earnings & dividents history, Financials         
 https://www.investing.com/analysis/stock-markets     
 https://www.investing.com/technical/indices-technical-summary     
+https://www.investing.com/technical/stocks-technical-summary    
 https://www.investing.com/technical/us-spx-500-technical-analysis    
 https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
 https://www.investing.com/technical/personalized-quotes-technical-summary     
