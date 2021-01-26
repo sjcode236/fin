@@ -22,7 +22,8 @@ https://www.thecapitalideas.com/category/viewpoints
 https://www.facebook.com/RetireBeforeDad/     
 
 
-
+==== youtube ===================     
+https://github.com/sjcode236/fin/blob/master/follow/youtubeChannels.md      
 
 
 
