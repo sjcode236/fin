@@ -15,6 +15,19 @@ https://www.etfchannel.com/
 BOA merrill edge 
 https://www.trefis.com/companies
        
+       
+https://twitter.com/ARKTradesBot  ARK Trades Bot   
+https://docs.google.com/spreadsheets/d/12Cdx9Ko-ljtT6mLtQr-LMPAjMG2fuTsUTyqMBBKQVgM/edit#gid=0      
+
+
+
+
+        
+       
+       
+       
+       
+       
 merrilledge gain :  2,054.04    
 moitf net 243.24 - 126.94 = 116.30      
 total=  2171
