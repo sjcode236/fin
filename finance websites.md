@@ -27,7 +27,8 @@ https://www.marketbeat.com/ratings/by-issuer/   rating by firms , price targets
 https://www.marketbeat.com/ratings/us/  stochasticsRSI,analyst Targets,  
 https://stockcharts.com/   stochasticsRSI     
 https://www.tradingview.com/ stochRSI,chaikin money flow,MACD ; Technical Analysis     
-https://www.tradingview.com/symbols/NASDAQ-TSLA/technicals/ (Technical Analysis eg:- )     
+https://www.tradingview.com/symbols/NASDAQ-TSLA/technicals/ (Technical Analysis eg:- )      
+https://www.barchart.com/stocks/quotes/PINS/interactive-chart ( stockRSI , add more than 3 techSignals )
 
 Fear & Greed Index     
 https://www.liberatedstocktrader.com/fear-and-greed-index/    
