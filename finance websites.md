@@ -113,6 +113,7 @@ https://www.zacks.com/stock-market-today
  
 https://blog.tipranks.com/     ==> New Stock Ideas    
 https://www.tipranks.com/trending-stocks   ==> Tending stocks 
+https://seekingalpha.com/market-news/on-the-move   ==> Tending stocks
 
 Option profit Calculator    
 https://www.optionsprofitcalculator.com/calculator/call-spread.html     
