@@ -9,11 +9,18 @@ https://www.morganstanley.com/ideas/thoughts-on-the-market
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner            
       
       
+      
+https://www.marketbeat.com/ratings/by-issuer      
+https://www.marketbeat.com/ratings/by-issuer/morgan-stanley-stock-recommendations/      
+https://thefly.com/news.php      
+
+      
+==============================================================================================           
 To Save to Websites blog Pages        
 https://www.etfchannel.com/      
 
 BOA merrill edge 
-https://www.trefis.com/companies
+https://www.trefis.com/companies     
        
        
 https://twitter.com/ARKTradesBot  ARK Trades Bot   
