@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/12Cdx9Ko-ljtT6mLtQr-LMPAjMG2fuTsUTyqMBBKQ
        
        
        
-       
+ ==============================================================================================      
        
 merrilledge gain :  2,054.04    
 moitf net 243.24 - 126.94 = 116.30      
