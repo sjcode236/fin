@@ -16,7 +16,7 @@ https://thefly.com/news.php
 https://seekingalpha.com/market-news/on-the-move     
       
 =====================================================================================              
-To Save to Websites blog Pages        
+To Save to Websites blog Pages  https://github.com/sjcode236/fin/blob/master/toSave.md          
 https://www.etfchannel.com/      
 
 BOA merrill edge 
