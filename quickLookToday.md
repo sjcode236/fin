@@ -15,7 +15,7 @@ https://www.marketbeat.com/ratings/by-issuer/morgan-stanley-stock-recommendation
 https://thefly.com/news.php      
 https://seekingalpha.com/market-news/on-the-move     
       
-=========================================================================================              
+=====================================================================================              
 To Save to Websites blog Pages        
 https://www.etfchannel.com/      
 
