@@ -68,4 +68,12 @@ https://allstarcharts.com/education/
 https://allstarcharts.com/podcast/      
 
 
+wellsfargo     
+https://stories.wf.com/category/financial-health/     
+https://www.youtube.com/c/wellsfargo/search?query=outlook    
+https://www.youtube.com/c/wellsfargo/search?query=insights    
+
+
+
+
 
