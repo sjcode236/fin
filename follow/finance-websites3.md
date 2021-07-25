@@ -44,3 +44,20 @@ How does gross margin and net margin differ?
 https://www.investopedia.com/ask/answers/122314/what-difference-between-gross-margin-and-net-margin.asp   
 What is the difference between revenue and profit?    
 https://www.investopedia.com/ask/answers/122214/what-difference-between-revenue-and-profit.asp    
+
+
+https://simplywall.st/discover/sample-portfolios     ---> sample portfolios    
+https://simplywall.st/discover/investing-ideas   ----> investing ideas   
+https://simplywall.st/discover/investing-ideas/5620/buy-the-dip/us  ---> buy the dip    
+
+
+Intrinsic values    
+http://www.moneychimp.com/articles/valuation/buffett_calc.htm    
+https://www.alphaspread.com/security/nyse/mpc/dcf-valuation    
+https://tradebrains.in/calculators/      
+https://www.investingcalculator.org/investment/intrinsic-value/    
+https://www.youtube.com/watch?v=GApaeGVYnfg    TDameritrade    
+
+
+
+
