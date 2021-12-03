@@ -19,6 +19,7 @@ https://www.americanbankingnews.com/category/market-news/analyst-articles-us  an
 http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022    
 https://github.com/sjcode236/fin/blob/master/priceRatings.md     
 https://www.fool.com/premium/stock-advisor/     
+https://www.fool.com/podcasts/     
 https://finviz.com/  market map, oversold , overbought screening ,price targets,biginfo table    
 
 www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,STOCHRSI,ratios, More in down section ....    
