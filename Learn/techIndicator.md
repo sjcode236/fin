@@ -16,3 +16,8 @@ https://www.youtube.com/watch?v=HnTeUrnHPXI
 
 **FAVORITE Swing Trading Indicators | Focused Trades**  
 https://www.youtube.com/watch?v=yC3pr4OezGQ   
+
+
+**stoch RSI **   
+
+
