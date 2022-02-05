@@ -1,14 +1,14 @@
 
-finance web sites  
-http://finance236.blogspot.com/  (new updates in github page )         
+finance web sites  (new updates in this github page )  
+http://finance236.blogspot.com/ (old page in blogspot )           
 
-Daily  quick  Read   
+**Daily  quick  Read**    
 https://www.nasdaq.com/    commdities , forex ,upgrades, forcast , surprises      
 https://finance.yahoo.com/      
 www.marketwatch.com   
 http://thestockmarketwatch.com/markets/pre-market/today.aspx    
 
-===== Stock  checking sites       
+=====**Stock  checking sites**         
 www.fidelity.com/       easy to see chart with splits , dividents and earning dates      
 www.marketwatch.com    etf holdings, easy to see a stocks income in finance section , charts with divident,earning   
 https://finance.yahoo.com/  ;fast watchlist ;conversations;nice financial section , upgrades/downgrades , charts with dividents ,% growth    
@@ -20,25 +20,25 @@ http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3
 https://github.com/sjcode236/fin/blob/master/priceRatings.md     
 https://www.fool.com/premium/stock-advisor/     
 https://www.fool.com/podcasts/     
-https://finviz.com/  market map, oversold , overbought screening ,price targets,biginfo table    
 
+https://finviz.com/  market map, oversold , overbought screening ,price targets,biginfo table    
 www.investing.com/  Financial Summary, divident history,earning history, Technical Analysis,STOCHRSI,ratios, More in down section ....    
 
 https://www.marketbeat.com/ratings/by-issuer/   rating by firms , price targets     
 https://www.marketbeat.com/ratings/us/  stochasticsRSI,analyst Targets,     
 
 https://stockcharts.com/   stochasticsRSI     
-https://www.tradingview.com/ stochRSI,chaikin money flow,MACD ; Technical Analysis     
+https://www.tradingview.com/ stochRSI,chaikin money flow,MACD , squeeze momentum ; Technical Analysis     
 https://www.tradingview.com/symbols/NASDAQ-TSLA/technicals/ (Technical Analysis eg:- )      
 https://www.barchart.com/stocks/quotes/PINS/interactive-chart ( stockRSI , add more than 3 techSignals )    
 
-Fear & Greed Index     
+**Fear & Greed Index**     
 https://www.liberatedstocktrader.com/fear-and-greed-index/    
 https://money.cnn.com/data/fear-and-greed/    
 https://www.investopedia.com/anxiety-index-explained/     
 https://www.investopedia.com/articles/optioninvestor/03/091003.asp     
 
-COT Reports with Interactive Charts     
+**COT Reports with Interactive Charts**     
 https://www.tradingster.com/cot     
 
 see stock Orderflow    
@@ -59,15 +59,15 @@ https://etfdb.com/etfs/sector/
 Pennystocks     
 https://pennystocks.com/     
 
-Breaking News and Market Movers    
+**Breaking News and Market Movers**      
 https://thefly.com/news.php     
 
-Option profit Calculator     
+**Option profit Calculator**     
 https://www.optionsprofitcalculator.com/calculator/call-spread.html      
 
 
 ==========================================================================                       
-Thoughts on Market           
+**Thoughts on Market**           
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
 https://github.com/sjcode236/fin/blob/master/misc%20podcast.md     
 https://www.morganstanley.com/ideas/thoughts-on-the-market         
@@ -131,7 +131,7 @@ https://finviz.com/  news,market map, oversold , overbought screening
 https://finviz.com/screener.ashx?v=111&s=ta_oversold     
 https://finviz.com/map.ashx    
 
-quick earnings & dividents history, Financials         
+**quick earnings data & dividents history, Financials**         
 https://www.investing.com/analysis/stock-markets     
 https://www.investing.com/technical/indices-technical-summary     
 https://www.investing.com/technical/stocks-technical-summary    
@@ -217,7 +217,8 @@ https://www.ubs.com/global/en/newsletter/daily_markets.html
     
 https://marketrealist.com/    
     
-newyorkfed         
+    
+**newyorkfed**         
 Statements and Operating Policies  https://www.newyorkfed.org/markets/op_policies.html     
 Repurchase Agreement Operational Details https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/repo-reverse-repo-agreements/repurchase-agreement-operational-details    
 Treasury Securities Operational Details  https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=The%20Desk%20plans%20to%20purchase,to%206%2F25%2F20.&text=The%20Desk%20plans%20to%20purchase%20approximately%20%2440.0%20billion%20(%248.0,on%20average)%20in%20Treasury%20purchases.      
@@ -243,17 +244,19 @@ http://www.marketwatch.com/investing/research-tools
 https://www.marketwatch.com/tools/stockresearch/updown    
 https://www.thestreet.com/r/ratings/upgradesanddowngrades    
               
-Earnings Report    
+**Earnings Report**    
 https://eresearch.fidelity.com/eresearch/conferenceCalls.jhtml    
     
 http://www.marketwatch.com/news/markets/earningswatch.asp    
 www.marketwatch.com/tools/earningscalendar    
 http://www.marketwatch.com/earnings    
     
-www.earningswhispers.com/calendar     
+https://twitter.com/eWhispers   
 www.earningswhispers.com/results   
+www.earningswhispers.com/calendar     
+ 
 www.benzinga.com/calendar/earnings    
-www.stocktwits.com/discover/earnings-calendar     
+https://stocktwits.com/earnings-calendar ;  www.stocktwits.com/discover/earnings-calendar  
 
 
       
@@ -316,7 +319,7 @@ https://www.benzinga.com/topic/macquarie-research
 https://www.benzinga.com/topic/ubs    
 https://www.benzinga.com/topic/muddy-waters  (LK fraud report & shorting)       
     
-=========Websites Expanded  =======================      
+=========**Websites Expanded**=======================      
       
 http://www.marketwatch.com/news/markets/earningswatch.asp    
 www.marketwatch.com/newsviewer    
