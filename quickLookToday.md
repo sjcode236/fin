@@ -22,7 +22,7 @@ https://stocktwits.com/earnings-calendar
 https://stocktwits.com/earnings-calendar  
 
 =-====================================================================================              
-To Save to Websites blog Pages  https://github.com/sjcode236/fin/blob/master/toSave.md          
+To Save to Websites blog Pages:-  ( https://github.com/sjcode236/fin/blob/master/toSave.md  )        
 https://www.etfchannel.com/      
 
 BOA merrill edge 
