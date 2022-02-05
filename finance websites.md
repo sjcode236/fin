@@ -221,15 +221,15 @@ https://marketrealist.com/
 **newyorkfed**         
 Statements and Operating Policies  https://www.newyorkfed.org/markets/op_policies.html     
 Repurchase Agreement Operational Details https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/repo-reverse-repo-agreements/repurchase-agreement-operational-details    
-Treasury Securities Operational Details  
->>> https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details  
+
 Domestic Market Operations https://www.newyorkfed.org/markets/domestic-market-operations      
 Markets Data Dashboard  https://www.newyorkfed.org/markets/data-hub     
-
+Treasury Securities Operational Details(**bond purchase info**)      
+https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details   
 https://www.federalreserve.gov/monetarypolicy.htm    
 https://www.federalreserve.gov/newsevents/pressreleases.htm   
-Federal Open Market Committee(FOMC calender )  
-https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm  
+Federal Open Market Committee(FOMC calender )   
+https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm   
 
 
     
