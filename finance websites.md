@@ -222,10 +222,10 @@ https://marketrealist.com/
 Statements and Operating Policies  https://www.newyorkfed.org/markets/op_policies.html     
 Repurchase Agreement Operational Details https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/repo-reverse-repo-agreements/repurchase-agreement-operational-details    
 Treasury Securities Operational Details  
--  https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details#:~:text=The%20Desk%20plans%20to%20purchase,to%206%2F25%2F20.&text=The%20Desk%20plans%20to%20purchase%20approximately%20%2440.0%20billion%20(%248.0,on%20average)%20in%20Treasury%20purchases.      
+> https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details
 Domestic Market Operations https://www.newyorkfed.org/markets/domestic-market-operations      
 Markets Data Dashboard  https://www.newyorkfed.org/markets/data-hub     
-https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/treasury-securities/treasury-securities-operational-details
+
 https://www.federalreserve.gov/monetarypolicy.htm    
 https://www.federalreserve.gov/newsevents/pressreleases.htm   
 Federal Open Market Committee(FOMC calender )  
