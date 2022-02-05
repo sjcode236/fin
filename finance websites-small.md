@@ -5,8 +5,13 @@ https://www.barchart.com/etfs-funds/quotes/SPY/interactive-chart
 https://www.tradingview.com/    
 https://www.investing.com/     
 https://www.marketwatch.com/    
-https://www.marketbeat.com/     
+https://www.marketbeat.com/    
+https://finviz.com/  
 
 
-https://www.earningswhispers.com/    
-https://twitter.com/eWhispers    
+https://twitter.com/eWhispers  
+https://www.earningswhispers.com/results   
+https://stocktwits.com/earnings-calendar   
+
+
+
