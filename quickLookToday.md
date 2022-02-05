@@ -19,7 +19,8 @@ https://seekingalpha.com/market-news/on-the-move
 
 **earnings calender**   
 https://stocktwits.com/earnings-calendar   
-https://stocktwits.com/earnings-calendar  
+https://twitter.com/eWhispers   
+https://www.earningswhispers.com/results    
 
 =-====================================================================================              
 To Save to Websites blog Pages:-  ( https://github.com/sjcode236/fin/blob/master/toSave.md  )        
