@@ -9,13 +9,19 @@ https://www.morganstanley.com/ideas/thoughts-on-the-market
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner            
       
       
-      
+**Ratings**        
 https://www.marketbeat.com/ratings/by-issuer      
 https://www.marketbeat.com/ratings/by-issuer/morgan-stanley-stock-recommendations/      
-https://thefly.com/news.php      
-https://seekingalpha.com/market-news/on-the-move     
-      
-=====================================================================================              
+ 
+**Trending news**    
+ https://thefly.com/news.php      
+https://seekingalpha.com/market-news/on-the-move   
+
+**earnings calender**   
+https://stocktwits.com/earnings-calendar   
+https://stocktwits.com/earnings-calendar  
+
+=-====================================================================================              
 To Save to Websites blog Pages  https://github.com/sjcode236/fin/blob/master/toSave.md          
 https://www.etfchannel.com/      
 
