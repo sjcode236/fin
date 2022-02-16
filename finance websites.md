@@ -162,6 +162,10 @@ https://www.stck.pro/  Social Financial News
 
 https://spactrack.net/spacnews/    SPAC news    
  
+https://fintel.io/top-investors  SEC filings, institutional transactions/insider tradding/short interest   
+
+https://www.gurufocus.com/dashboard  insider trade/economic indicators   
+ 
 cnbc.com/       
 http://www.cnbc.com/the-deed/       
 https://www.cnbc.com/trading-nation/       
