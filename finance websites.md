@@ -265,9 +265,11 @@ www.earningswhispers.com/results
 www.earningswhispers.com/calendar     
  
 www.benzinga.com/calendar/earnings    
-https://stocktwits.com/earnings-calendar ;  www.stocktwits.com/discover/earnings-calendar  
+https://stocktwits.com/earnings-calendar ;  www.stocktwits.com/discover/earnings-calendar   
 
-
+https://www.cnbc.com/earnings/   
+https://finance.yahoo.com/calendar/earnings/   
+https://www.marketbeat.com/earnings/latest/   
       
 Oil     
 www.fxempire.com/commodities/crude-oil/news    
