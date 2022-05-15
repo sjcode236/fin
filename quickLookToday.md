@@ -13,9 +13,11 @@ https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner
 https://www.marketbeat.com/ratings/by-issuer      
 https://www.marketbeat.com/ratings/by-issuer/morgan-stanley-stock-recommendations/      
  
-**Trending news**    
+**Breaking News and Market Movers**   
  https://thefly.com/news.php      
 https://seekingalpha.com/market-news/on-the-move   
+https://www.stck.pro/trending-news/   
+https://stocktwits.com/symbol/TTD
 
 **earnings calender**   
 https://stocktwits.com/earnings-calendar   
