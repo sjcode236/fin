@@ -61,6 +61,10 @@ https://pennystocks.com/
 
 **Breaking News and Market Movers**      
 https://thefly.com/news.php     
+https://seekingalpha.com/market-news/on-the-move   
+https://www.stck.pro/trending-news/   
+https://stocktwits.com/symbol/TTD
+
 
 **Option profit Calculator**     
 https://www.optionsprofitcalculator.com/calculator/call-spread.html      
