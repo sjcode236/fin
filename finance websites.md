@@ -226,7 +226,15 @@ https://www.ubs.com/global/en/newsletter/daily_markets.html
 https://marketrealist.com/    
     
     
-**newyorkfed**         
+**newyorkfed**==============================
+|:----|
+
+Open Market Operations    
+https://www.federalreserve.gov/monetarypolicy/openmarket.htm    
+Credit and Liquidity Programs and the Balance Sheet    
+https://www.federalreserve.gov/monetarypolicy/bst.htm   
+Open Market Operations  FAQs
+https://www.investopedia.com/ask/answers/06/openmarketoperations.asp
 Statements and Operating Policies  https://www.newyorkfed.org/markets/op_policies.html     
 Repurchase Agreement Operational Details https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation/repo-reverse-repo-agreements/repurchase-agreement-operational-details    
 
