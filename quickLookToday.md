@@ -1,7 +1,8 @@
 
 
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
-https://github.com/sjcode236/fin/blob/master/finance%20websites.md    
+https://github.com/sjcode236/fin/blob/master/finance%20websites.md   website list   
+https://github.com/sjcode236/fin/blob/master/finance%20websites-small.md   website samll list  
 https://github.com/sjcode236/fin/blob/master/misc%20podcast.md    
 
 
