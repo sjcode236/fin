@@ -10,6 +10,7 @@ https://github.com/sjcode236/kachP
 quickLookToday   https://github.com/sjcode236/fin/blob/master/quickLookToday.md     
 economy outlook and podcasts  https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
 finance websites https://github.com/sjcode236/fin/blob/master/finance%20websites.md     
+https://github.com/sjcode236/fin/blob/master/finance%20websites-small.md    
 youTubeChannels  https://github.com/sjcode236/fin/blob/master/follow/youtubeChannels.md    
 finance websites smallList  https://github.com/sjcode236/fin/blob/master/finance%20websites-small.md     
 FB-youtubePikcs  https://github.com/sjcode236/fin/tree/master/_stkPicks    
