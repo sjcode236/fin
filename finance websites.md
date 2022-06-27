@@ -224,8 +224,12 @@ https://www.streetinsider.com/premium_content.php
 https://www.ubs.com/global/en/newsletter/daily_markets.html    
     
 https://marketrealist.com/    
-    
-    
+
+https://www.macrotrends.net/stocks  (quick **price/sales** ratios )      
+https://www.macrotrends.net/stocks/charts/NIO/nio/price-sales    
+https://www.macrotrends.net/stocks/charts/TSLA/tesla/cash-on-hand   
+
+
 **============FOMC====newyork fed** ==============================
 |:----|
 https://www.federalreserve.gov/monetarypolicy/fomc.htm
