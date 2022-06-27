@@ -226,8 +226,9 @@ https://www.ubs.com/global/en/newsletter/daily_markets.html
 https://marketrealist.com/    
     
     
-**newyorkfed**==============================
+**============FOMC====newyork fed** ==============================
 |:----|
+https://www.federalreserve.gov/monetarypolicy/fomc.htm
 
 Open Market Operations    
 https://www.federalreserve.gov/monetarypolicy/openmarket.htm    
