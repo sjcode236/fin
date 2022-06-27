@@ -7,7 +7,7 @@ https://www.investing.com/
 https://www.marketwatch.com/    
 https://www.marketbeat.com/    
 https://finviz.com/  
-
+https://www.macrotrends.net/stocks/charts/TSLA/tesla/cash-on-hand    
 
 https://twitter.com/eWhispers  
 https://www.earningswhispers.com/results   
