@@ -226,7 +226,7 @@ https://www.ubs.com/global/en/newsletter/daily_markets.html
 https://marketrealist.com/    
 
 
-**price/sales**
+**=============price/sales** =====================================
 |---|
 
 https://www.macrotrends.net/stocks  (quick **price/sales** ratios )      
