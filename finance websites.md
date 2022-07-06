@@ -135,14 +135,14 @@ https://finviz.com/  news,market map, oversold , overbought screening
 https://finviz.com/screener.ashx?v=111&s=ta_oversold     
 https://finviz.com/map.ashx    
 
-**=======quick earnings data & dividents history, Financials**==================================             
+==============================================================             
 https://www.investing.com/analysis/stock-markets     
 https://www.investing.com/technical/indices-technical-summary     
 https://www.investing.com/technical/stocks-technical-summary    
 https://www.investing.com/technical/us-spx-500-technical-analysis    
 https://www.investing.com/technical/us-spx-500-futures-technical-analysis     
 https://www.investing.com/technical/personalized-quotes-technical-summary     
-https://www.investing.com/equities/tesla-motors-earnings    
+
  
 
 https://www.scutify.com/    
@@ -225,22 +225,22 @@ https://www.ubs.com/global/en/newsletter/daily_markets.html
     
 https://marketrealist.com/    
 
+Analyst Research     
+http://www.nasdaq.com/symbol/pg/analyst-research    
+https://finance.yahoo.com/quote/WFC/analysts?p=WFC    
+http://www.analystawards.com/awards.php?t=2#filter    
+https://www.estimize.com/    
+    
+https://www.briefing.com/investor/search/search.aspx    
+http://www.starmine.com/    
+http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022  
+    
 
-**=============price/sales** =====================================
-|---|
-
-https://www.macrotrends.net/stocks  (quick **price/sales** ratios )      
-https://www.macrotrends.net/stocks/charts/NIO/nio/price-sales    
-https://www.macrotrends.net/stocks/charts/TSLA/tesla/cash-on-hand   
-yahoo finance ->statistics -> Price/Sales(ttm) 4 quarter data can be seen        
-
-trefis valuation estimate https://www.trefis.com/data/companies/   
-https://www.trefis.com/data/companies/aapl -> valuation -> Price To Sales Ratio (P/S) Based Estimate   
-https://www.google.com/search?q=trefis+ttd++valuation   
-etrade.com -> stock name -> fundamentals ->  Key Statistics     
-  
-https://www.gurufocus.com/term/ps/NAS:AAPL/PS-Ratio   
-
+Research Tools     
+http://www.marketwatch.com/investing/research-tools    
+https://www.marketwatch.com/tools/stockresearch/updown    
+https://www.thestreet.com/r/ratings/upgradesanddowngrades    
+              
 
 **============FOMC====newyork fed** ==============================
 |:----|
@@ -265,24 +265,22 @@ Federal Open Market Committee(FOMC calender )
 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm   
 
 
-    
-Analyst Research     
-http://www.nasdaq.com/symbol/pg/analyst-research    
-https://finance.yahoo.com/quote/WFC/analysts?p=WFC    
-http://www.analystawards.com/awards.php?t=2#filter    
-https://www.estimize.com/    
-    
-https://www.briefing.com/investor/search/search.aspx    
-http://www.starmine.com/    
-http://www.wsj.com/mdc/public/page/2_3024-UpgradesDowngrades.html?mod=topnav_2_3022  
-    
+**=============price/sales** =====================================
+|---|
 
-Research Tools     
-http://www.marketwatch.com/investing/research-tools    
-https://www.marketwatch.com/tools/stockresearch/updown    
-https://www.thestreet.com/r/ratings/upgradesanddowngrades    
+https://www.macrotrends.net/stocks  (quick **price/sales** ratios )      
+https://www.macrotrends.net/stocks/charts/NIO/nio/price-sales    
+https://www.macrotrends.net/stocks/charts/TSLA/tesla/cash-on-hand   
+yahoo finance ->statistics -> Price/Sales(ttm) 4 quarter data can be seen        
+
+trefis valuation estimate https://www.trefis.com/data/companies/   
+https://www.trefis.com/data/companies/aapl -> valuation -> Price To Sales Ratio (P/S) Based Estimate   
+https://www.google.com/search?q=trefis+ttd++valuation   
+etrade.com -> stock name -> fundamentals ->  Key Statistics     
+  
+https://www.gurufocus.com/term/ps/NAS:AAPL/PS-Ratio   
               
-**Earnings Report**    
+**=========Earnings Report**=================================    
 https://eresearch.fidelity.com/eresearch/conferenceCalls.jhtml    
     
 http://www.marketwatch.com/news/markets/earningswatch.asp    
@@ -298,7 +296,8 @@ https://stocktwits.com/earnings-calendar ;  www.stocktwits.com/discover/earnings
 
 https://www.cnbc.com/earnings/   
 https://finance.yahoo.com/calendar/earnings/   
-https://www.marketbeat.com/earnings/latest/   
+https://www.marketbeat.com/earnings/latest/    
+https://www.investing.com/equities/tesla-motors-earnings    
       
 Oil     
 www.fxempire.com/commodities/crude-oil/news    
