@@ -135,7 +135,7 @@ https://finviz.com/  news,market map, oversold , overbought screening
 https://finviz.com/screener.ashx?v=111&s=ta_oversold     
 https://finviz.com/map.ashx    
 
-**quick earnings data & dividents history, Financials**         
+**=======quick earnings data & dividents history, Financials**==================================             
 https://www.investing.com/analysis/stock-markets     
 https://www.investing.com/technical/indices-technical-summary     
 https://www.investing.com/technical/stocks-technical-summary    
@@ -239,7 +239,7 @@ https://www.trefis.com/data/companies/aapl -> valuation -> Price To Sales Ratio 
 https://www.google.com/search?q=trefis+ttd++valuation   
 etrade.com -> stock name -> fundamentals ->  Key Statistics     
   
-
+https://www.gurufocus.com/term/ps/NAS:AAPL/PS-Ratio   
 
 
 **============FOMC====newyork fed** ==============================
