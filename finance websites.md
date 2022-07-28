@@ -271,7 +271,8 @@ https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 https://www.macrotrends.net/stocks  (quick **price/sales** ratios )      
 https://www.macrotrends.net/stocks/charts/NIO/nio/price-sales    
 https://www.macrotrends.net/stocks/charts/TSLA/tesla/cash-on-hand   
-yahoo finance ->statistics -> Price/Sales(ttm) 4 quarter data can be seen        
+yahoo finance ->statistics -> Price/Sales(ttm) 4 quarter data can be seen  
+https://csimarket.com/  -> fundamentals -> valuation -> Price to Sales    
 
 trefis valuation estimate https://www.trefis.com/data/companies/   
 https://www.trefis.com/data/companies/aapl -> valuation -> Price To Sales Ratio (P/S) Based Estimate   
