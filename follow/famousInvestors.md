@@ -30,7 +30,7 @@ https://www.google.com/#q=Carl+Inchan+investments
        
 Jack bogle  (vanguard group founder)       
 johncbogle.com   ;  http://johncbogle.com/wordpress/       
-https://www.google.com/#q=jack+bogle++investments       
+https://www.google.com/search?q=jack+bogle++investments        
 John bogle          
 https://www.google.com/#q=john+bogle+investment       
        
@@ -79,12 +79,18 @@ https://twitter.com/aswathdamodaran?lang=en
 https://twitter.com/aswathdamodaran?lang=en          
 https://www.google.com/search?q=Aswath+Damodaran          
         
-        
+Kenneth C. Griffin   ; ken griffin   
+Chief Executive Officer of Citadel LLC   
+https://www.google.com/search?q=ken+griffin        
+
+Kenneth B. Zaslow, CFA - BMO Capital Markets   
+https://www.google.com/search?q=Kenneth+Zaslow    
         
           
 
 
-Books        
+📖   Books 📖    
+---       
        
        
 The Intelligent Investor by Benjamin Graham       
