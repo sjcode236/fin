@@ -18,12 +18,20 @@ https://www.marketbeat.com/ratings/by-issuer/morgan-stanley-stock-recommendation
  https://thefly.com/news.php      
 https://seekingalpha.com/market-news/on-the-move   
 https://www.stck.pro/trending-news/   
-https://stocktwits.com/symbol/TTD
+https://stocktwits.com/symbol/TTD    
+https://tradingeconomics.com/united-states/news
 
 **earnings calender**   
 https://stocktwits.com/earnings-calendar   
 https://twitter.com/eWhispers   
 https://www.earningswhispers.com/results    
+
+**U.S. Economic Calendar**   
+https://www.investing.com/economic-calendar/   
+https://tradingeconomics.com/united-states/calendar      
+
+**United States Indicators**   
+https://tradingeconomics.com/united-states/indicators  
 
 =-====================================================================================              
 To Save to Websites blog Pages:-  ( https://github.com/sjcode236/fin/blob/master/toSave.md  )        
