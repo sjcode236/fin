@@ -14,4 +14,9 @@ https://www.earningswhispers.com/results
 https://stocktwits.com/earnings-calendar   
 
 
+**U.S. Economic Calendar**   
+https://www.investing.com/economic-calendar/   
+https://tradingeconomics.com/united-states/calendar      
 
+**United States Indicators**   
+https://tradingeconomics.com/united-states/indicators  
