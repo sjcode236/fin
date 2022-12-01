@@ -308,7 +308,9 @@ https://stocktwits.com/earnings-calendar ;  www.stocktwits.com/discover/earnings
 https://www.cnbc.com/earnings/   
 https://finance.yahoo.com/calendar/earnings/   
 https://www.marketbeat.com/earnings/latest/    
+www.marketbeat.com -> CVX -> Dividends, Earnings  (to see earnings date , history )   
 https://www.investing.com/equities/tesla-motors-earnings    
+www.investing.com -> MPC -> Financials -> Dividends, Earnings  (to see earnings date , history )   
       
 Oil     
 www.fxempire.com/commodities/crude-oil/news    
