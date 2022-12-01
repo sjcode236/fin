@@ -267,6 +267,9 @@ https://www.federalreserve.gov/newsevents/pressreleases.htm
 Federal Open Market Committee(FOMC calender )   
 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm   
 
+**Schedule of Releases for the Consumer Price Index**   
+https://www.bls.gov/schedule/news_release/cpi.htm    
+
 **U.S. Economic Calendar**   
 https://www.investing.com/economic-calendar/
 https://tradingeconomics.com/united-states/calendar    
