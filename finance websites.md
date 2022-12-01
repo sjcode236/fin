@@ -41,16 +41,16 @@ https://www.investopedia.com/articles/optioninvestor/03/091003.asp
 **COT Reports with Interactive Charts**     
 https://www.tradingster.com/cot     
 
-see stock Orderflow    
+**see stock Orderflow**    
 https://app.webull.com/stocks    
 
-Trading streams,technical analyse,each stok idea,    
+**Trading streams,technical analyse,each stok idea,**    
 https://www.tradingview.com/symbols/NYSE-DAL/technicals/     
 https://www.tradingview.com/streams/     
 https://www.tradingview.com/screener/   screener    
 https://www.tradingview.com/markets/stocks-usa/ideas/   stock market ideas     
 
-ETF  secter view    
+**ETF  secter view**    
 https://www.cnbc.com/sector-etfs/    
 https://seekingalpha.com/etfs-and-funds/etf-tables/sectors    
 https://investor.vanguard.com/etf/list#/etf/asset-class/month-end-returns     
@@ -65,6 +65,9 @@ https://seekingalpha.com/market-news/on-the-move
 https://www.stck.pro/trending-news/   
 https://stocktwits.com/symbol/TTD
 
+**market news**   
+https://tradingeconomics.com/united-states/news    usa news   
+https://tradingeconomics.com/united-states/news   world news 
 
 **Option profit Calculator**     
 https://www.optionsprofitcalculator.com/calculator/call-spread.html      
@@ -263,6 +266,13 @@ https://www.federalreserve.gov/monetarypolicy.htm
 https://www.federalreserve.gov/newsevents/pressreleases.htm   
 Federal Open Market Committee(FOMC calender )   
 https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm   
+
+**U.S. Economic Calendar**   
+https://www.investing.com/economic-calendar/
+https://tradingeconomics.com/united-states/calendar    
+
+**United States Indicators**    
+https://tradingeconomics.com/united-states/indicators
 
 
 **=============price/sales** =====================================
