@@ -19,6 +19,7 @@ https://www.marketbeat.com/ratings/by-issuer/morgan-stanley-stock-recommendation
 https://seekingalpha.com/market-news/on-the-move   
 https://www.stck.pro/trending-news/   
 https://stocktwits.com/symbol/TTD    
+**market news**   
 https://tradingeconomics.com/united-states/news
 
 **earnings calender**   
