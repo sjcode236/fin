@@ -278,10 +278,10 @@ https://www.marketwatch.com/economy-politics/calendar
 **United States Indicators**    
 https://tradingeconomics.com/united-states/indicators   
 
-	Real disposable incomes (SAAR)   
+Real disposable incomes (SAAR)   
 https://ycharts.com/indicators/us_real_disposable_personal_income_monthly#:~:text=US    
 https://www.bea.gov/data/income-saving/disposable-personal-income    
- 
+Real consumer spending    
 
 **=============price/sales** =====================================
 |---|
