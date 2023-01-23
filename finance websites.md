@@ -245,7 +245,7 @@ https://www.marketwatch.com/tools/stockresearch/updown
 https://www.thestreet.com/r/ratings/upgradesanddowngrades    
               
 
-**============FOMC====newyork fed** ==============================
+🏁**============FOMC====newyork fed** ==============================
 |:----|
 https://www.federalreserve.gov/monetarypolicy/fomc.htm
 
@@ -271,8 +271,9 @@ https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm
 https://www.bls.gov/schedule/news_release/cpi.htm    
 
 **U.S. Economic Calendar**   
-https://www.investing.com/economic-calendar/
+https://www.investing.com/economic-calendar/   
 https://tradingeconomics.com/united-states/calendar    
+https://www.marketwatch.com/economy-politics/calendar    
 
 **United States Indicators**    
 https://tradingeconomics.com/united-states/indicators
