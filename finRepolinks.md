@@ -9,9 +9,9 @@
 
 quickLookToday   https://github.com/sjcode236/fin/blob/master/quickLookToday.md     
 economy outlook and podcasts  https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
-   misc podcasts  https://github.com/sjcode236/fin/blob/master/misc%20podcast.md     
+-> misc podcasts  https://github.com/sjcode236/fin/blob/master/misc%20podcast.md     
 finance websites https://github.com/sjcode236/fin/blob/master/finance%20websites.md    
-     https://github.com/sjcode236/fin/blob/master/follow/finance-websites3.md   
+-> https://github.com/sjcode236/fin/blob/master/follow/finance-websites3.md   
 finance websites smallList  https://github.com/sjcode236/fin/blob/master/finance%20websites-small.md  
 youTubeChannels  https://github.com/sjcode236/fin/blob/master/follow/youtubeChannels.md    
    
