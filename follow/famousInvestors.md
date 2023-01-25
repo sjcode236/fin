@@ -7,7 +7,8 @@ https://www.morganstanley.com/ideas/thoughts-on-the-market
 https://www.morganstanley.com/ideas/thoughts-on-the-market-zentner          
     https://www.google.com/search?q=Ellen+Zentner          
           
-       
+marko kolanovic  --JPMorgan Chase & Co. Chief Global Markets Strategist     
+https://www.google.com/search?q=marko+kolanovic+insight    
        
 Masayoshi Son   (softbank of Japan) -  ARM , alibaba , sprint       
 https://www.google.com/#q=Masayoshi+Son+investments       
