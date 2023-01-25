@@ -10,7 +10,7 @@ https://www.morganstanley.com/ideas/thoughts-on-the-market-zezas/
 https://www.podparadise.com/Podcast/1466686717     
 https://podtail.com/en/podcast/thoughts-on-the-market/    
 
-
+https://podcasts.google.com/subscriptions
  
 
  
@@ -56,8 +56,11 @@ BOAML
 
 
 CHASE 
+https://www.jpmorgan.com/insights/research/market-outlook   
+https://www.jpmorgan.com/insights/research#latest-research   
+https://www.jpmorgan.com/solutions/cib/insights/podcast-hub   
 
-
+The Real Investment
 https://realinvestmentadvice.com/real-investment-daily/      
 https://www.youtube.com/channel/UCXVMMgEidXlrTM1coedg70A/videos      
 https://realinvestmentadvice.com/webinars/      
