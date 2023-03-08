@@ -26,6 +26,7 @@ https://tradingeconomics.com/united-states/news
 https://stocktwits.com/earnings-calendar   
 https://twitter.com/eWhispers   
 https://www.earningswhispers.com/results    
+https://thefly.com/news.php?earnings_filter=on&h=3    
 
 **U.S. Economic Calendar**   
 https://www.investing.com/economic-calendar/   
