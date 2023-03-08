@@ -20,7 +20,12 @@ https://seekingalpha.com/market-news/on-the-move
 https://www.stck.pro/trending-news/   
 https://stocktwits.com/symbol/TTD    
 **market news**   
-https://tradingeconomics.com/united-states/news
+https://tradingeconomics.com/united-states/news    
+
+https://www.barrons.com/topics/federal-reserve    
+https://www.barrons.com/topics/consumer    
+https://www.barrons.com/livecoverage/stock-market-today-030623   
+https://www.barrons.com/topics/the-barrons-daily     
 
 **earnings calender**   
 https://stocktwits.com/earnings-calendar   
