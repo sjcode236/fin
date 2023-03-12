@@ -86,7 +86,9 @@ https://www.raymondjames.com/wealth-management/market-commentary-and-insights/
 https://www.raymondjames.com/wealth-management/market-commentary-and-insights/investment-strategy      
 https://www.raymondjames.com/wealth-management/market-commentary-and-insights/economic-commentary     
 
-
+Renaissance Macro Research   ; Neil Dutta     
+https://www.renmac.com/media/    
+https://twitter.com/RenMacLLC     
 
 
 
