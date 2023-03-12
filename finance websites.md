@@ -73,7 +73,7 @@ https://tradingeconomics.com/united-states/news   world news
 https://www.optionsprofitcalculator.com/calculator/call-spread.html      
 
 
-==========================================================================                       
+🚩===Economics=======================================================================                       
 **Thoughts on Market**           
 https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
 https://github.com/sjcode236/fin/blob/master/misc%20podcast.md     
@@ -95,22 +95,8 @@ https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price
 Global Markets Weekly Update   https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/global-markets-weekly-update.html#China     
 Monthly Market Review  https://www.troweprice.com/personal-investing/planning-and-research/t-rowe-price-insights/markets/monthly-market-review.html    
 
-https://www.raymondjames.com/wealth-management/market-commentary-and-insights/    
-https://www.raymondjames.com/wealth-management/market-commentary-and-insights/investment-strategy      
-https://www.raymondjames.com/wealth-management/market-commentary-and-insights/economic-commentary     
 
-
-https://www.wellsfargo.com/com/insights/economics/weekly-commentary/     
-https://www.wellsfargo.com/com/insights/economics/indicators/     
-https://www.wellsfargo.com/com/insights/economics/
-
-
-www.fidelity.com/news/overview           
-https://www.fidelity.com/news/us-economy       
-https://www.fidelity.com/news/us-markets       
-https://www.fidelity.com/news/overview       
-https://www.fidelity.com/news/international       
-       
+   
 https://us.etrade.com/knowledge/investing-ideas       
 https://us.etrade.com/knowledge/markets-news       
          
