@@ -25,7 +25,8 @@ https://tradingeconomics.com/united-states/news
 https://www.barrons.com/topics/federal-reserve    
 https://www.barrons.com/topics/consumer    
 https://www.barrons.com/livecoverage/stock-market-today-030623   
-https://www.barrons.com/topics/the-barrons-daily     
+https://www.barrons.com/topics/the-barrons-daily   
+https://www.barrons.com/real-time   
 
 **earnings calender**   
 https://stocktwits.com/earnings-calendar   
