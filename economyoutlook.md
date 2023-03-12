@@ -33,13 +33,13 @@ https://podcasts.apple.com/us/podcast/morgan-stanley-ideas-podcast/id1246402780
 
  
 
-https://www.wellsfargo.com/economics/      
-https://www.wellsfargo.com/com/insights/economics/weekly-commentary/    
-https://www.wellsfargo.com/com/insights/economics/monthly-outlook/    
-
-
 fidelity Market Insights   
 https://www.podparadise.com/Podcast/1252948006     
+www.fidelity.com/news/overview           
+https://www.fidelity.com/news/us-economy       
+https://www.fidelity.com/news/us-markets       
+https://www.fidelity.com/news/overview       
+https://www.fidelity.com/news/international       
 
 Zacks Market Edge   
 https://www.podparadise.com/Podcast/1052541481     
@@ -75,9 +75,11 @@ wellsfargo
 https://stories.wf.com/category/financial-health/     
 https://www.youtube.com/c/wellsfargo/search?query=outlook    
 https://www.youtube.com/c/wellsfargo/search?query=insights    
-https://www.wellsfargo.com/com/insights/economics/weekly-commentary/     
-https://www.wellsfargo.com/com/insights/economics/indicators/     
+https://www.wellsfargo.com/economics/    
 https://www.wellsfargo.com/com/insights/economics/     
+https://www.wellsfargo.com/com/insights/economics/indicators/     
+https://www.wellsfargo.com/com/insights/economics/weekly-commentary/    
+https://www.wellsfargo.com/com/insights/economics/monthly-outlook/    
 
 
 https://www.raymondjames.com/wealth-management/market-commentary-and-insights/    
