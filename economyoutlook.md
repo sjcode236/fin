@@ -75,6 +75,14 @@ wellsfargo
 https://stories.wf.com/category/financial-health/     
 https://www.youtube.com/c/wellsfargo/search?query=outlook    
 https://www.youtube.com/c/wellsfargo/search?query=insights    
+https://www.wellsfargo.com/com/insights/economics/weekly-commentary/     
+https://www.wellsfargo.com/com/insights/economics/indicators/     
+https://www.wellsfargo.com/com/insights/economics/     
+
+
+https://www.raymondjames.com/wealth-management/market-commentary-and-insights/    
+https://www.raymondjames.com/wealth-management/market-commentary-and-insights/investment-strategy      
+https://www.raymondjames.com/wealth-management/market-commentary-and-insights/economic-commentary     
 
 
 
