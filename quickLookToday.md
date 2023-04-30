@@ -34,7 +34,7 @@ https://twitter.com/eWhispers
 https://www.earningswhispers.com/results    
 https://thefly.com/news.php?earnings_filter=on&h=3    
 
-💰**Fundmental Research**
+💰**Fundmental Research**   
 https://www.macrotrends.net/stocks/charts/TSLA/tesla/cash-on-hand    
 https://www.macroaxis.com/profitability/RIOT   (profitability )   
 
