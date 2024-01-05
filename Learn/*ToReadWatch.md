@@ -6,7 +6,7 @@ check ToReadWatch.md   in Gdrive
 
 📘=+====     
 Methods of a Wall Street Master    
-VICTOR Sperandeo      
+Victor Sperandeo     
 recomomeded  by adam khoo  youtuber   
 info about 50 MA cross of 150 MA       
 
