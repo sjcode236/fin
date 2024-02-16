@@ -2,7 +2,8 @@
  
 
  
-===oil / REIT /    
+💰 ===oil / REIT /    
+```
 XLE & XOP      
 AMLP put $2k        
 ET -> largest  pipline
@@ -15,25 +16,27 @@ VLO SUN MPC  PSX
 CVX XOM COP     
 MPC   
 XLE
-XOP  
+XOP
+```
 
 
 
-====REIT
+💵====REIT  
 CIM mortage Reit high div, put 1k     
 
-====entertainment    
+💵====entertainment    
 CCL   
 PLAY    
 MGM   
 
-=====Motel   
-BX 
-HLT 
-H  Hyatt  
+💵=====Motel    
+BX  
+HLT  
+H  Hyatt   
 
 
-====airline  
+💵====airline   
+```
 canadian air ACDVF
 UAL 
 LUV 
@@ -41,25 +44,32 @@ AAL
 SAVE 
 SPCE 
 JETS
-
-====Micro processsor =======   
+``` 
+💵====Micro processsor =======    
+```
 MU
 NVDA 
 AMD   
 CRUS
+smci
+```
 
-====Retail ========== 
+💵====Retail ==========   
+```
 RVLV 
 ETSY 
 CVNA
 AMZN
 SHOP
 RH  
-
-====Tech =========== 
-xlc  tech  ETF   
+```  
+💵====Tech ===========    
+```   
+xlc  tech  ETF
+💵  
 IXP 
-VZ    
+VZ
+```    
 
 
 
