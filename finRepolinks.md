@@ -6,6 +6,7 @@
 🌟 https://github.com/sjcode236/kachP     
 
 
+📊Trade Ideas :- https://github.com/sjcode236/fin/blob/master/trade/swingTradeIdeas.md   
 📊quickLookToday   https://github.com/sjcode236/fin/blob/master/quickLookToday.md     
 📊 economy outlook and podcasts  https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
 .  . misc podcasts  https://github.com/sjcode236/fin/blob/master/misc%20podcast.md     
@@ -14,8 +15,6 @@
 . . finance websites3 https://github.com/sjcode236/fin/blob/master/follow/finance-websites3.md   
 
 📊youTubeChannels  https://github.com/sjcode236/fin/blob/master/follow/youtubeChannels.md    
-
-📊Trade Ideas :- https://github.com/sjcode236/fin/blob/master/trade/swingTradeIdeas.md   
 
 📊FB-youtubePikcs  https://github.com/sjcode236/fin/tree/master/_stkPicks    
 📊Twitter-social https://github.com/sjcode236/fin/blob/master/follow/twitter-social.md    
