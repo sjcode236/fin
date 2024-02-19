@@ -6,7 +6,7 @@
 
 
 
-==== Bloomberg ==========================  
+🔰==== Bloomberg ==========================  
 https://www.bloomberg.com/markets   
 https://www.bloomberg.com/opinion   
 
