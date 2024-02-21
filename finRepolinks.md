@@ -12,7 +12,8 @@
 .+.   . misc podcasts     https://github.com/sjcode236/fin/blob/master/misc-podcast.md   
 📊finance websites smallList  https://github.com/sjcode236/fin/blob/master/finance%20websites-small.md  
 📊finance websites https://github.com/sjcode236/fin/blob/master/finance%20websites.md    
-.+.   . finance websites3 https://github.com/sjcode236/fin/blob/master/follow/finance-websites3.md   
+.+.   . finance websites3 https://github.com/sjcode236/fin/blob/master/follow/finance-websites3.md     
+.+-   . misc interesting sites https://github.com/sjcode236/fin/blob/master/misc-InterestingSites.md    
 
 📊youTubeChannels  https://github.com/sjcode236/fin/blob/master/follow/youtubeChannels.md    
 
