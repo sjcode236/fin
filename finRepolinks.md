@@ -9,11 +9,10 @@
 📊Trade Ideas :- https://github.com/sjcode236/fin/blob/master/trade/swingTradeIdeas.md   
 📊quickLookToday   https://github.com/sjcode236/fin/blob/master/quickLookToday.md     
 📊 economy outlook and podcasts  https://github.com/sjcode236/fin/blob/master/economyoutlook.md    
-.  . misc podcasts  https://github.com/sjcode236/fin/blob/master/misc%20podcast.md     
-➖➖ misc podcasts     https://github.com/sjcode236/fin/blob/master/misc-podcast.md   
+.+.   . misc podcasts     https://github.com/sjcode236/fin/blob/master/misc-podcast.md   
 📊finance websites smallList  https://github.com/sjcode236/fin/blob/master/finance%20websites-small.md  
 📊finance websites https://github.com/sjcode236/fin/blob/master/finance%20websites.md    
-. . finance websites3 https://github.com/sjcode236/fin/blob/master/follow/finance-websites3.md   
+.+.   . finance websites3 https://github.com/sjcode236/fin/blob/master/follow/finance-websites3.md   
 
 📊youTubeChannels  https://github.com/sjcode236/fin/blob/master/follow/youtubeChannels.md    
 
