@@ -37,4 +37,28 @@ www.investing.com -> MPC -> Financials -> Dividends, Earnings (to see earnings d
 
 
 
+📘 Gemini queries   
+```
+what is the free cash flow of tsla for q4 2023  ; please get info from  3 different websites
+what is free cash flow of tsla as of 31 december 2023  ; please find the info from 3  different websites and compare
+from ycharts.com  find the free cash flow of  TSLA
+from Macrotrends.com  find the free cash flow of  TSLA
+from gurufocus.com  find the free cash flow of  TSLA
+```
+
+📘 Free cash flow   sites 
+https://finance.yahoo.com/quote/TSLA/cash-flow   
+https://www.alphaquery.com/stock/TSLA/fundamentals/annual/free-cash-flow     
+
+https://stockanalysis.com/stocks/tsla/financials/cash-flow-statement/  giving data for 8 years ; cash flow growth
+https://stockanalysis.com/stocks/wfc/financials/cash-flow-statement/   
+
+https://www.tipranks.com/stocks/tsla/financials/cash-flow   
+
+
+
+
+ 
+
+
 
