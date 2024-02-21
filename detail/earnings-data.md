@@ -55,7 +55,11 @@ https://stockanalysis.com/stocks/wfc/financials/cash-flow-statement/
 
 https://www.tipranks.com/stocks/tsla/financials/cash-flow   
 
-
+FCF / OCF 
+https://finbox.com/NASDAQGS:TSLA/explorer/fcf_levered/   
+https://finbox.com/NASDAQGS:TSLA/explorer/fcf_to_ocf/   
+https://finbox.com/NASDAQGS:AAPL/explorer   
+https://finbox.com/NASDAQGS:AAPL/charts    
 
 
  
