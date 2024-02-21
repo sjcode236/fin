@@ -35,8 +35,6 @@ www.marketbeat.com -> CVX -> Dividends, Earnings (to see earnings date , history
 https://www.investing.com/equities/tesla-motors-earnings   
 www.investing.com -> MPC -> Financials -> Dividends, Earnings (to see earnings date , history )   
 
-
-
 📘 Gemini queries   
 ```
 what is the free cash flow of tsla for q4 2023  ; please get info from  3 different websites
@@ -44,6 +42,13 @@ what is free cash flow of tsla as of 31 december 2023  ; please find the info fr
 from ycharts.com  find the free cash flow of  TSLA
 from Macrotrends.com  find the free cash flow of  TSLA
 from gurufocus.com  find the free cash flow of  TSLA
+
+
+
+what is number of outstanding shares for last 10 years for cof ; is there any share buyback last 10 years
+what is number of outstanding shares  for last 10 years for META
+
+list 15 companies with YoY EPS Growth(%) more than 30 for last 4 quarters earning reports 
 ```
 
 📘 Free cash flow   sites 
@@ -60,6 +65,12 @@ https://finbox.com/NASDAQGS:TSLA/explorer/fcf_levered/
 https://finbox.com/NASDAQGS:TSLA/explorer/fcf_to_ocf/   
 https://finbox.com/NASDAQGS:AAPL/explorer   
 https://finbox.com/NASDAQGS:AAPL/charts    
+
+
+📘  value calculation   
+https://valueinvesting.io/TSLA/valuation/dcf-growth-exit-5y    
+https://valueinvesting.io/TTD/valuation/dcf-growth-exit-5y    
+
 
 
  
