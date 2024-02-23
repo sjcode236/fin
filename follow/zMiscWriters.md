@@ -18,3 +18,13 @@ Vildana Hajric  https://www.bloomberg.com/authors/ATsVXHyLRok/vildana-hajric
 
 https://www.macrostreet.com/author/crispus-nyaga/     
 https://invezz.com/author/crispus-nyaga/   
+
+
+=🔰====Thomson Reuters=============================
+
+🟣 Bhanvi Satija :- https://www.reuters.com/authors/bhanvi-satija/        
+🟣 Zaheer Kachwala :- https://www.reuters.com/authors/zaheer-kachwala/   
+
+
+
+   
