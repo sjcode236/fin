@@ -1,6 +1,9 @@
 
 finance web sites  (new updates in this github page )  
-http://finance236.blogspot.com/ (old page in blogspot )           
+http://finance236.blogspot.com/ (old page in blogspot )     
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+═══════════════════════════════════════════════
+─────────────────────────────────────────────────    
 
 **Daily  quick  Read**    
 https://www.nasdaq.com/    commdities , forex ,upgrades, forcast , surprises      
@@ -229,8 +232,12 @@ Research Tools
 http://www.marketwatch.com/investing/research-tools    
 https://www.marketwatch.com/tools/stockresearch/updown    
 https://www.thestreet.com/r/ratings/upgradesanddowngrades    
-              
 
+▄▄▄Stock screeners , preformance ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
+
+https://finviz.com/screener.ashx   
+https://stockanalysis.com/stocks/screener/   
+https://www.financecharts.com/screener/growth    
 
 **=============price/sales** =====================================
 |---|
