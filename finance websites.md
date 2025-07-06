@@ -233,7 +233,7 @@ http://www.marketwatch.com/investing/research-tools
 https://www.marketwatch.com/tools/stockresearch/updown    
 https://www.thestreet.com/r/ratings/upgradesanddowngrades    
 
-▄▄▄Stock screeners , preformance ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
+▄▄▄Stock screeners , preformance ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄    
 
 https://finviz.com/screener.ashx   
 https://stockanalysis.com/stocks/screener/   
